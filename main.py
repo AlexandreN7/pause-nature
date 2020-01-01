@@ -10,7 +10,7 @@ def hello():
 
 @app.route("/home")
 def reviews():
-    return render_template("home.html", message = "hello world")
+    return render_template("index.html", message = "hello world")
 
 @app.route("/reviews/<review_name>")
 def review(name):

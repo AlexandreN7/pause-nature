@@ -33,15 +33,17 @@ h3 {
 }
 
 .sidebar {
-    background: rgb(126, 91, 73);
+    background: #003300;
     color: #FFF;
 }
 
-.brand-title,
 .brand-tagline {
     margin: 0;
 }
 .brand-title {
+    margin: 0;
+    font-size: 3em;
+    color: white;
     text-transform: uppercase;
 }
 .brand-tagline {
@@ -55,13 +57,14 @@ h3 {
     list-style: none;
 }
 .nav-item {
-    display: inline-block;
+   /* display: inline-block;*/
     *display: inline;
     zoom: 1;
 }
 .nav-item a {
     background: transparent;
-    border: 2px solid rgb(176, 202, 219);
+    /*background: #999966;*/
+    /*border: 2px solid rgb(176, 202, 219);*/
     color: #fff;
     margin-top: 1em;
     letter-spacing: 0.05em;
@@ -93,7 +96,7 @@ h3 {
 }
 .post-title {
     font-size: 2em;
-    color: rgb(126, 91, 73);
+    color: #003300;
     margin-bottom: 0.2em;
 }
 .post-avatar {
@@ -161,8 +164,8 @@ h3 {
     }
 
     .header {
-        margin: 80% 2em 0;
-        text-align: right;
+        margin: 10% 1.5em 0;
+        text-align: left;
     }
 
     .sidebar {
