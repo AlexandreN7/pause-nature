@@ -42,7 +42,7 @@ h3 {
 }
 .brand-title {
     margin: 0;
-    font-size: 3em;
+    font-size: 2em;
     color: white;
     text-transform: uppercase;
 }
@@ -164,7 +164,7 @@ h3 {
     }
 
     .header {
-        margin: 10% 3em 3em;
+        margin: 10% 3em 0em;
         text-align: left;
     }
 
