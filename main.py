@@ -23,6 +23,11 @@ def ongoing():
     return render_template("ongoing.html")
 
 
+@app.route("/about")
+def about():
+    return render_template("about.html")
+
+
 @app.route("/galerie_peinture")
 def galery():
     return render_template("galerie_peinture.html")
