@@ -33,7 +33,8 @@ h3 {
 }
 
 .sidebar {
-    background: #003300;
+
+    background: rgb(49, 49, 49); /* bluish grey */
     color: #FFF;
 }
 
