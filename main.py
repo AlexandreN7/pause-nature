@@ -17,11 +17,9 @@ def review(name):
     htmlname = "review_"+name+".html"
     return render_template(htmlname)
 
-
 @app.route("/ongoing")
 def ongoing():
     return render_template("ongoing.html")
-
 
 @app.route("/about")
 def about():
