@@ -12,7 +12,7 @@ def hello():
 def reviews():
     return render_template("index.html")
 
-@app.route("/review/<name>")
+@app.route("/review/review_<name>")
 def review(name):
     htmlname = "review_"+name+".html"
     return render_template(htmlname)
