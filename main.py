@@ -2,6 +2,7 @@
 # -*- coding : utf-8 -*-
 
 from flask import Flask, render_template
+
 app = Flask(__name__)
 
 @app.route("/")
@@ -9,13 +10,17 @@ def hello():
     return render_template("index.html")
 
 @app.route("/home")
-def reviews():
+def home():
     return render_template("index.html")
 
 @app.route("/review/review_<name>")
 def review(name):
     htmlname = "review_"+name+".html"
     return render_template(htmlname)
+    
+@app.route("/reviews")
+def reviews():
+    return render_template("reviews.html")
 
 @app.route("/ongoing")
 def ongoing():

@@ -7,6 +7,7 @@ import os
 #site_configuration = open("site_conf.txt","r")
 
 article_list = [
+"review_kuretake_gansai_tambi",
 "review_hiroshige",
 "review_black_ink",
 "review_portable_painter"
@@ -58,7 +59,7 @@ print("Generation de l'index :")
 template = open("templates/template.html", "r")
 for ligne in template :
    if "</head>" in ligne : #insertion du <head>
-      index_html.write('<meta name="description" content=""Promoting a positive culture through articles on art, photography and paint.">  ')#du titre
+      index_html.write('<meta name="description" content="Promoting a positive culture through articles on art, photography and paint.">  ')#du titre
       index_html.write('<title>Pause nature - The website dedicated to paint and nature</title>')#du titre
                
    if "content_beginning" in ligne : #debut index
@@ -85,5 +86,27 @@ for ligne in template :
    index_html.write(ligne)#ecriture des lignes du templates
 	
 index_html.close()	
+template.close()
 
+#generation de la table des article
+
+#generation de l'index
+
+review_html=open("templates/reviews.html","w")
+print("Generation de l'index :")
+template = open("templates/template.html", "r")
+for ligne in template :
+   if "</head>" in ligne : #insertion du <head>
+      review_html.write('<meta name="description" content="Summary of reviews on the theme of art, watercolor and painting materials.">  ')#du titre
+      review_html.write('<title>List of review</title>')#du titre
+               
+   if "content_beginning" in ligne : #debut index
+      review_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
+      for article in article_list :
+         review_html.write('<a href=review/'+article+' >')
+         review_html.write('<p>'+article+'</p>')
+         review_html.write('</a>')
+
+   review_html.write(ligne)#ecriture des lignes du templates
+review_html.close()	
 template.close()
