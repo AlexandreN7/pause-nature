@@ -1,7 +1,7 @@
 
 <!--start_head-->
 <meta name="description" content="I'he just finished my first Hahnemühle watercolor book, let's review it !">    
-<title>Review : Hahnemühle watercolour book</title>  
+<title>Review : Hahnemühle watercolor book</title>  
 <!--end_head-->
 
                         <div class="post">
@@ -16,7 +16,7 @@ BkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsIn
 cLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGNnd282ei1jYjA3MDcyZC0xYzc2LTQ1MGEtODg3
 ZC1hNDI3ODdlMjBjZDYuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3Blc
 mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
-                                <h2 class="post-title">Review : Hahnemühle watercolour book</h2>
+                                <h2 class="post-title">Review : Hahnemühle watercolor book</h2>
                                 <p class="post-meta">
                                 Date : 17/01/2020 by <a class="post-author">Alexandre Proux</a> under <a class="post-category post-category-design">REVIEW</a>
                                 </p>
@@ -24,18 +24,18 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                             <div class="post-description">
 
                                 
-                                <p>In November 2019, seduced by its design and its price, I bought the Hahnemühle watercolour book A5.
-                                <br>Today, I've finished it, let's do a little review of this watercolour notebook ! </p>
+                                <p>In November 2019, seduced by its design and its price, I bought the Hahnemühle watercolor book A5.
+                                <br>Today, I've finished it, let's do a little review of this watercolor notebook ! </p>
                                 
                                 
                                 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
-                                    <p><img src="../static/img/review_hahnemuhle_watercolour_book/review_hahnemuhle_watercolour_book_5.gif" alt="review_hahnemuhle_watercolour_book_5" style="width:100%;height:100%;"></p>
+                                    <p><img src="../static/img/review_hahnemuhle_watercolor_book/review_hahnemuhle_watercolor_book_5.gif" alt="review_hahnemuhle_watercolor_book_5" style="width:100%;height:100%;"></p>
                                 </div>
                                 <!-- end_header -->  
                                 <p>
-                                Choosing watercolor paper, is a difficult exercice, in particular when choosing a new watercolour book. Some criteria are to consider: 
+                                Choosing watercolor paper, is a difficult exercice, in particular when choosing a new watercolor book. Some criteria are to consider: 
                                 <ul style="list-style-type: circle;">
-                                <li>The price : watercolour paper is expensive, cheaper in notebook format</li>
+                                <li>The price : watercolor paper is expensive, cheaper in notebook format</li>
                                 <li>Paper weight : 200 g/m2 - 300 g/m2 - 400 g/m2 ? It depends on the amount of water used in your paints. </li>
                                 <li>Durability : What is worst than notebook loosing sheets ? </li>
                                 <li>Number of sheets : Usually 8 to 50 pages</li>
@@ -44,10 +44,10 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                 </ul>
                                 <p>
                                 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
-                                    <p><img src="../static/img/review_hahnemuhle_watercolour_book/review_hahnemuhle_watercolour_book_1.jpg" alt="review_hahnemuhle_watercolour_book_1" style="width:100%;height:100%;"></p>
+                                    <p><img src="../static/img/review_hahnemuhle_watercolor_book/review_hahnemuhle_watercolor_book_1.jpg" alt="review_hahnemuhle_watercolor_book_1" style="width:100%;height:100%;"></p>
                                 </div>
                                 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
-                                    <p><img src="../static/img/review_hahnemuhle_watercolour_book/review_hahnemuhle_watercolour_book_2.jpg" alt="review_hahnemuhle_watercolour_book_2" style="width:100%;height:100%;"></p>
+                                    <p><img src="../static/img/review_hahnemuhle_watercolor_book/review_hahnemuhle_watercolor_book_2.jpg" alt="review_hahnemuhle_watercolor_book_2" style="width:100%;height:100%;"></p>
                                 </div>
                                 <p>&nbsp;</p>
                                 <p>Well, the Hahnemühle is a serious candidate :</p>
@@ -62,7 +62,7 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                 </ul>
                                 </p>
                                 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
-                                    <p><img src="../static/img/review_hahnemuhle_watercolour_book/review_hahnemuhle_watercolour_book_3.jpg" alt="review_hahnemuhle_watercolour_book_3" style="width:100%;height:100%;"></p>
+                                    <p><img src="../static/img/review_hahnemuhle_watercolor_book/review_hahnemuhle_watercolor_book_3.jpg" alt="review_hahnemuhle_watercolor_book_3" style="width:100%;height:100%;"></p>
                                 </div>
                                 <p>&nbsp;</p>
                                 <p> 
@@ -72,7 +72,7 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                 
                                 <p>A close up picture of sheet texture.</p>
                                 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
-                                    <p><img src="../static/img/review_hahnemuhle_watercolour_book/review_hahnemuhle_watercolour_book_4.jpg" alt="review_hahnemuhle_watercolour_book_4" style="width:100%;height:100%;"></p>
+                                    <p><img src="../static/img/review_hahnemuhle_watercolor_book/review_hahnemuhle_watercolor_book_4.jpg" alt="review_hahnemuhle_watercolor_book_4" style="width:100%;height:100%;"></p>
                                 </div>
 
 

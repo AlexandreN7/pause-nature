@@ -8,7 +8,7 @@ import os
 
 article_list = [
 "review_morikuni",
-"review_hahnemuhle_watercolour_book",
+"review_hahnemuhle_watercolor_book",
 "review_kuretake_gansai_tambi",
 "review_hiroshige",
 "review_black_ink",
