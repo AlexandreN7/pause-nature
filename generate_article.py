@@ -7,6 +7,7 @@ import os
 #site_configuration = open("site_conf.txt","r")
 
 article_list = [
+"review_versatile_palette",
 "review_morikuni",
 "review_hahnemuhle_watercolor_book",
 "review_kuretake_gansai_tambi",
