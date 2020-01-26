@@ -40,8 +40,8 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
 <ul>
 <li>a brightener (lighten the paint when dry)</li>
 <li>a humectant (to help paint dilution)</li>
-<li>a binder to carry the pigment and to help the pigment to stay on a page, historically, binder is gum arabic. With deforestation and the increase in the price of arabic gum, the 
-binder is often replaced by a polymer (glycol). Brand&nbsp; like sennelier still use (arabic gum and honey as binder)</li>
+<li>a binder to carry the pigment and to help it to stay on a page. Historically, binder is gum arabic. With deforestation and the increase in the price of arabic gum, the 
+binder is often replaced by a polymer (glycol). Brand like sennelier still use arabic gum and honey as binder</li>
 </ul>
 </li>
 <li>water (10-20%)</li>
@@ -53,7 +53,7 @@ binder is often replaced by a polymer (glycol). Brand&nbsp; like sennelier still
 <p>Transparency is the amount of light that can passes through a color:</p>
 <ul>
 <li>transparent : a lot of light passes</li>
-<li>opaque : little or no light passe</li>
+<li>opaque : little or no light passes</li>
 </ul>
 
 
