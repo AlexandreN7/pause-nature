@@ -34,6 +34,10 @@ def about():
 @app.route("/galerie_peinture")
 def galery():
     return render_template("galerie_peinture.html")
+    
+@app.route("/sitemap")
+def sitemap():
+    return render_template("sitemap.xml")
 
 if __name__ == "__main__" :
     app.run()
