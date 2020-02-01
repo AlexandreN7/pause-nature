@@ -62,8 +62,12 @@ print("Generation de l'index :")
 template = open("templates/template.html", "r")
 for ligne in template :
    if "</head>" in ligne : #insertion du <head>
+      index_html.write('<meta name="p:domain_verify" content="cea44afbf402c3b5741620e0e26796e7"/>')
+      index_html.write('\n')
       index_html.write('<meta name="description" content="Promoting a positive culture through articles on art, photography and paint.">  ')#du titre
+      index_html.write('\n')
       index_html.write('<title>Pause nature - The website dedicated to paint and nature</title>')#du titre
+      index_html.write('\n')
                
    if "content_beginning" in ligne : #debut index
       index_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
