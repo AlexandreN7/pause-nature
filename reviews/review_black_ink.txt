@@ -1,8 +1,8 @@
                        
 
 <!--start_head-->
-<meta name="description" content="What is the best black ink for watercolor ? from platinium carbon black to pigma micron.">    
-<title>Best black ink for watercolor</title>  
+<meta name="description" content=" In this article we will compare some black ink for use in watercolor painting. A benchmark from platinum carbon black to pigma micron.">    
+<title>Which black ink for watercolor painting ?</title>  
 <!--end_head-->
 
 <!--start_content-->
@@ -18,17 +18,21 @@ BkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsIn
 cLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGNnd282ei1jYjA3MDcyZC0xYzc2LTQ1MGEtODg3
 ZC1hNDI3ODdlMjBjZDYuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3Blc
 mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
-                                <h2 class="post-title">Which ink to choose for watercolor ?</h2>
+                                <h2 class="post-title">Which black ink for watercolor painting ?</h2>
                                 <p class="post-meta">
                                 Date : 05/01/2020 by <class="post-author">Alexandre Proux</a> under <a class="post-category post-category-design">REVIEW</a>
                                 </p>
                             </header>
                             <div class="post-description">
-								Black ink is widely used in watercolor to bring contrast to painting, as in the line and wash technique. To me, 3 main criteria must be considered 
+                                <p></p>
+								Black ink is widely used in watercolor to bring contrast to painting, as in the line and wash technique. Today ink can be found in liquid form in bottles. 
+                                But historically ink was kept solid in the form of stick.
+
+
+                                To me, 3 main criteria must be considered 
 to choose an ink : <u>water resistance</u>,
-								<u>intensity of black</u> and <u>cloging</u> (can it be used with a fountain pen ?)
-								Finding the perfect black ink for watercolor can be a real challenge. During my watercolor adventure, I accumulated many bottles of ink,
-								in the rest of this article I will compare them and give you my opinions on each brand.
+								<u>intensity of black</u> and <u>clogging</u> (can it be used with a fountain pen ?)
+                                
 								
 								<br>
 								<br>
@@ -39,6 +43,14 @@ to choose an ink : <u>water resistance</u>,
                                 </div>
                                 <!-- end_header -->
 								<br>
+                                The waterproof criteria is essential for watercolor technique that require to wet inked paper. But a waterproof ink often sacrifies its flowability. 
+                                For a single drawing it is absolutely necessary to avoid mixing 2 black inks together. Once dry, the inks may look radically different and ruin your work.
+                                When not used, bottles of ink shall be kept corked as a prevention against thickening due to evaporation. when an ink bottle reaches the end of its life, its consistency
+                                is thicker than a new one. That is why, it can be intereseting to keep a new bottle for the fine lines of a drawing. It is also possible to dilute with a bit of water the end of an old bottle.  
+                                
+								Finding the perfect black ink for watercolor can be a real challenge. During my watercolor adventure, I accumulated many bottles of ink,
+								in the rest of this article I will compare them and give you my opinion on each brand.
+                                <br>
 								<br>
 								For this comparison, I have selected the following inks:
 								<o1>
@@ -47,7 +59,7 @@ to choose an ink : <u>water resistance</u>,
                                 <li>Hero 234</li>
 								<li>Sennelier indian ink "a la pagode"</li>
 								<li>Pelikan fount india</li>
-								<li>Platinium carbon ink</li>
+								<li>Platinum carbon ink</li>
                                 <li>Pigma Micro (0.8)</li>
 								</o1>
 								<br>
@@ -77,7 +89,7 @@ to choose an ink : <u>water resistance</u>,
 								<o1>
 							    <li>Water resistance : Very good </li>
 								<li>Intensity of black : Very good </li>
-								<li>Cloging : can't be used with a fountain pen</li>
+								<li>Clogging : can't be used with a fountain pen</li>
 								</o1>
 								
 								<br>
@@ -86,7 +98,7 @@ to choose an ink : <u>water resistance</u>,
 								<o1>
 							    <li>Water resistance : no resistance at all </li>
 								<li>Intensity of black : greyish </li>
-								<li>Cloging : can't be used with a fountain pen</li>
+								<li>Clogging : can't be used with a fountain pen</li>
 								</o1>
 								
 								<br>
@@ -95,7 +107,7 @@ to choose an ink : <u>water resistance</u>,
 								<o1>
 							    <li>Water resistance : no resistance at all </li>
 								<li>Intensity of black : good </li>
-								<li>Cloging : some people on internet use this ink with fountain pen, i would not try it</li>
+								<li>Clogging : some people on internet use this ink with fountain pen, i would not try it</li>
 								</o1>
 								
 								<br>
@@ -104,7 +116,7 @@ to choose an ink : <u>water resistance</u>,
 								<o1>
 							    <li>Water resistance : Excellent when dry</li>
 								<li>Intensity of black : best of the benchmark </li>
-								<li>Cloging : really difficult to use, it clogs brushes and nib. This ink shall never be used with a fountain pen. I recommend diluting the ink with 
+								<li>Clogging : really difficult to use, it clogs brushes and nib. This ink shall never be used with a fountain pen. I recommend diluting the ink with 
 water to improve its fluidity. </li>
 								</o1>
 
@@ -114,20 +126,21 @@ water to improve its fluidity. </li>
 								<o1>
 							    <li>Water resistance : no resistance at all </li>
 								<li>Intensity of black : good </li>
-								<li>Cloging : compatible with fountain pen, but it should be cleaned regularly </li>
+								<li>Clogging : compatible with fountain pen, but it should be cleaned regularly </li>
 								</o1>								
 
 								<br>
-								<u>Platinium Carbon ink</u>
+								<u>Platinum Carbon ink</u>
 								<br>
 								<o1>
 							    <li>Water resistance : Excellent </li>
 								<li>Intensity of black : Excellent </li>
-								<li>Cloging : compatible with fountain pen, but it should be cleaned regularly </li>
+								<li>Clogging : compatible with fountain pen, but it should be cleaned regularly </li>
 								</o1>								
 																
                                 <br> 
-								Conclusion ? There is a lot of black ink out there. Right now my favorite is the Platinium Carbon ink combine with my lamy 2000. 
+								Conclusion
+                                There is a lot of black ink out there. Right now my favorite is the Platinum Carbon ink combine with my lamy 2000. 
 								Note : Noodler sell a bullet-proof ink which has very good reviews, probably worth a try.
                                 </p>
                             </div>

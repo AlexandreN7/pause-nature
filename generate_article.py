@@ -65,7 +65,7 @@ for ligne in template :
    if "</head>" in ligne : #insertion du <head>
       index_html.write('<meta name="p:domain_verify" content="cea44afbf402c3b5741620e0e26796e7"/>')
       index_html.write('\n')
-      index_html.write('<meta name="description" content="Promoting a positive culture through articles on art, photography and paint.">  ')#du titre
+      index_html.write('<meta name="description" content="Promoting a positive culture through articles on art, photography and paint. This website offers articles, tutorials and reviews on for drawer and watercolorist.">')#du titre
       index_html.write('\n')
       index_html.write('<title>Pause nature - The website dedicated to paint and nature</title>')#du titre
       index_html.write('\n')
