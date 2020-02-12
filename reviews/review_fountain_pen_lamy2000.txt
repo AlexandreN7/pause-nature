@@ -18,12 +18,13 @@ BkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsIn
 cLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGNnd282ei1jYjA3MDcyZC0xYzc2LTQ1MGEtODg3
 ZC1hNDI3ODdlMjBjZDYuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3Blc
 mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
-                                <h2 class="post-title">Fountain pen, watercolor and Lamy 2000</h2>
+                                <h1 class="post-title">Fountain pen, watercolor and Lamy 2000</h1>
                                 <p class="post-meta">
                                 Date : 02/02/2020 by <class="post-author">Alexandre Proux</a> under <a class="post-category post-category-design">REVIEW</a>
                                 </p>
                             </header>
                             <div class="post-description">
+                            <h2>Brief history of fountain pens and why they are relevant in watercolor</h2>
                                 <p>
                                 Transportable, durable and allowing the addition of contrast and personality to a drawing, the fountain pen is a tool of choice for the watercolourist.
                                 In this article, I quickly introduce how to choose a fountain pen for watercolor painting and sketching.
@@ -41,28 +42,25 @@ plume and refers to a feather pen. These pens made from animal feathers were use
 thrist attemps at mettalic nib date back to the 18th century in England. Today the feather holders have given way to the fountain pen which, let's face it, is starting to disappear 
 in favor of rollerball pens or technical pens.</p>
 <p>Pen holders are still used marginally by refractory artists such as the mangaka. An this topic deserves a full article. Using a pen holder for drawing has a huge drawback, the 
-need to have a bottle of ink handy and I let you imagine the discomfort for painting outdoors. And now I come to the subject of fountain pens.</p>
-<p>Fountain pens come in a huge variety of nib and body styles. Some pens are luxury items or even piece of art while others are very inexpensive.</p>
-<p>&nbsp;</p>
+need to have a bottle of ink handy and I let you imagine the discomfort for painting outdoors. And now I come to the subject of fountain pens.
+Fountain pens come in a huge variety of nib and body styles. Some pens are luxury items or even piece of art while others are very inexpensive.</p>
 <p>First, to effectively use a fountain pen in watercolor painting, we need a waterproof ink bottle compatible with fountain pens. I wrote a little article on this topic : <a 
-href="/review/review_black_ink">Black ink for watercolor</a> .</p>
-<p>Personally, I chose the Platinum carbon ink, which is perfectly waterproof when dry. To put ink in the pen we need a piston converter or a fountain pen with a piston.</p>
-<p>Now comes the choice of the pen itself. There are many brands of fountain pens and a wide variety of choices. For the drawing, the determining parameters are concentrated on the 
+href="/review/review_black_ink">Black ink for watercolor</a> .
+Personally, I chose the Platinum carbon ink, which is perfectly waterproof when dry. To put ink in the pen we need a piston converter or a fountain pen with a piston.
+Now comes the choice of the pen itself. There are many brands of fountain pens and a wide variety of choices. For the drawing, the determining parameters are concentrated on the 
 nib.</p>
-<p>&nbsp;</p>
-<p><strong><span style="text-decoration: underline;">Gold nib vs steel nib</span></strong></p>
+<h2>Gold nib vs steel nib</h2>
 <p>We sometimes hear that gold nib are more flexible and with more rebound than steel nib. For me it is a purely commercial argument. My personal opinion is that the softness and 
 rebound of a nib is the direct consequence of the shape and construction.</p>
 <p>The only thing that matter, is that ink has corrosive properties and that the gold nibs are less sensivitive than steel nib. But contemporary steel nibs seem much more 
 resistant than in the past.</p>
-<p><strong><span style="text-decoration: underline;">Nib size ?<br /></span></strong></p>
+<h2>Nib size ?</h2>
 <p>Fountain pen nibs come in many sizes. As we will use this pen for drawing, I recommended taking an extra fine size. Japanese nibs are thinner than western pen (Western extra fine 
 = Japanese fine).</p>
-<p><span style="text-decoration: underline;"><strong>Flexible nib ?</strong></span></p>
+<h2>Flexible nib ?</h2>
 <p>Rather rare, some nibs have incrased flexibility. They are mainly used in calligraphy techniques, they offer very interesting line variation which can produce nive effects in 
 watercolor painting.</p>
-<p>&nbsp;</p>
-<p><span style="text-decoration: underline;"><strong>Review : lamy 2000 fountain pen<br /></strong></span></p>
+<h2>Review : lamy 2000 fountain pen</h2>
 <p>My current choice is the Lamy 2000 with a fine nib.</p>
 
                                 <img width=60% height=60%
@@ -89,7 +87,7 @@ durable over time.</p>
 <p>Let's be honest, my overall feeling is that this pen is maybe a bit overated and I find it a <span style="text-decoration: underline;">bit scratchy</span> (at least with Lamy blue 
 ink and normal paper). Moreover, the square shape of the point of the nib create a soft point which require a bit of training to reach. Fortunately, Platinum ink contains lubricants 
 that solve the scratching problem. An interesting effect, the reverse writing of the pen draws very fine lines very appreciated for drawing details.</p>
-<p><span style="text-decoration: underline;"><strong>Conclusion :</strong></span></p>
+<h2>Conclusion</h2>
                                 <img width=100% height=100%
                                              src="../static/img/review_fountain_pen_lamy2000/review_fountain_pen_lamy2000_4.jpg"        
                                              alt="Watercolor scketch of the lamy 2000 fountain pen, with Platinum black ink and schemincke watercolor"></a>

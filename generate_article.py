@@ -31,6 +31,8 @@ for article in article_list :
    for ligne in template :
       file_article = open("reviews/"+article+".txt", "r")
       if "</head>" in ligne : #insertion du <head>
+         #attention il y a un piege ici : l'article est genere ici /review/
+         file_html.write('<link rel="alternate" hreflang="en" href="www.pause-nature.fr/review/'+article+'">')
          write = 0
          for ligne_article in file_article :
             if "start_head" in ligne_article :
@@ -64,12 +66,14 @@ print("Generation de l'index :")
 template = open("templates/template.html", "r")
 for ligne in template :
    if "</head>" in ligne : #insertion du <head>
+
       index_html.write('<meta name="p:domain_verify" content="cea44afbf402c3b5741620e0e26796e7"/>')
       index_html.write('\n')
       index_html.write('<meta name="description" content="Promoting a positive culture through articles on art, photography and paint. This website offers articles, tutorials and reviews on for drawer and watercolorist.">')#du titre
       index_html.write('\n')
       index_html.write('<title>Pause nature - The website dedicated to paint and nature</title>')#du titre
       index_html.write('\n')
+      index_html.write('<link rel="alternate" hreflang="en" href="www.pause-nature.fr">')
                
    if "content_beginning" in ligne : #debut index
       index_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
@@ -99,7 +103,7 @@ template.close()
 
 #generation de la table des article
 
-#generation de l'index
+#generation de de l'onglet reviews
 
 review_html=open("templates/reviews.html","w")
 print("Generation de l'index :")
@@ -108,6 +112,7 @@ for ligne in template :
    if "</head>" in ligne : #insertion du <head>
       review_html.write('<meta name="description" content="Summary of reviews on the theme of art, watercolor and painting materials.">  ')#du titre
       review_html.write('<title>List of review</title>')#du titre
+      review_html.write('<link rel="alternate" hreflang="en" href="http://www.pause-nature.fr/reviews">')
                
    if "content_beginning" in ligne : #debut index
       review_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
