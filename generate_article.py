@@ -33,6 +33,19 @@ for article in article_list :
       if "</head>" in ligne : #insertion du <head>
          #attention il y a un piege ici : l'article est genere ici /review/
          file_html.write('<link rel="alternate" hreflang="en" href="www.pause-nature.fr/review/'+article+'">')
+         file_html.write('<script type="application/ld+json">')
+         file_html.write('{')
+         file_html.write('"@context" : "http://schema.org",')
+         file_html.write('"@type" : "Article",')
+         file_html.write('"name" : "'+article+'",')
+         file_html.write('"author" : {')
+         file_html.write('"@type" : "Person",')
+         file_html.write('"name" : "Alexandre Proux"')
+         file_html.write('},')
+         file_html.write('"articleSection" : "review"')
+         file_html.write('}')
+         file_html.write('</script>')
+   
          write = 0
          for ligne_article in file_article :
             if "start_head" in ligne_article :
@@ -66,6 +79,14 @@ print("Generation de l'index :")
 template = open("templates/template.html", "r")
 for ligne in template :
    if "</head>" in ligne : #insertion du <head>
+   
+
+   
+   
+   
+   
+   
+   
 
       index_html.write('<meta name="p:domain_verify" content="cea44afbf402c3b5741620e0e26796e7"/>')
       index_html.write('\n')

@@ -16,7 +16,7 @@ BkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsIn
 cLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGNnd282ei1jYjA3MDcyZC0xYzc2LTQ1MGEtODg3
 ZC1hNDI3ODdlMjBjZDYuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3Blc
 mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
-                                <h2 class="post-title">Review : Gansai Tambi Watercolor</h2>
+                                <h1 class="post-title">Review : Gansai Tambi Watercolor</h1>
                                 <p class="post-meta">
                                 Date : 14/01/2020 by <a class="post-author">Alexandre Proux</a> under <a class="post-category post-category-design">REVIEW</a>
                                 </p>
@@ -31,10 +31,13 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
                                     <p><img src="../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi1.jpg" alt="Kuretake Gambai Tambi watercolor palette, comparison 12 and 36 pans side by side" style="width:100%;height:100%;"></p>
                                 </div>
-                                <!-- end_header -->                               
-                               <p>Kuretake Gansai Tambi 12-color set was my first watercolor palette, back then I had absolutely no knowledge on watercolor and I decided to buy this palette probably because of its packaging. It was not even for the price, which at the time was higher than today (at least in Paris). I used it a lot and even decided to buy the 36-color set. Little tips, you can find these palette for cheap on chinese website ( shhhhhh ....).</p>
+                                <!-- end_header -->
+                                <h2> First impressions </h2>                                
+                               <p>Kuretake Gansai Tambi 12-color set was my first watercolor palette, back then I had absolutely no knowledge on watercolor and I decided 
+                               to buy this palette probably because of its packaging. It was not even for the price, which at the time was higher than today (at least in Paris). 
+                               I used it a lot and even decided to buy the 36-color set. Little tips, you can find these palettes for cheap on chinese website ( shhhhhh ....).</p>
 
-                                <p>&nbsp;</p>
+
                                 <p>First thing first, I did a color chart of my 36-color set. </p>
                                 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
                                     <p><img src="../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi2.jpg" alt="Home made Gansai Kuretake watercolor paint color chart " style="width:100%;height:100%;"></p>
@@ -42,7 +45,9 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                     <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
                                     <p><img src="../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi3.jpg" alt="Gansai Kuretake watercolor paint color chart" style="width:100%;height:100%;"></p>
                                 </div>
-                                <p>From the first brushstroke, it appears that the behavior of this watercolor is very different from western brands. We can assume that this behavior is due to the binder that is based on a mixture of glue and glycerine
+                                <p>From the first brushstroke, it appears that the behavior of this watercolor is very different from western brands. The paint activates very easily from the first brush stoke
+                                with relatively little water. The large size of the pans makes lifting the paint easier, especially when using a large paintbrush.
+                                We can assume that this behavior is due to the binder that is based on a mixture of glue and glycerine
                                 synthetize from animal bones and skins.</p>
                                 <p>First observations :</p>
                                 <ul style="list-style-type: circle;">
@@ -56,8 +61,9 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                 <li>AP (approved product) Seal (non toxic)</li>
                                 </ul>
                                 <p><br />The most annoying thing about this painting is that the composition of this watercolor is a mystery. There no information on pigment used or binder on the official website. However, Kuretake announces that the painting was done with a traditional receipt. Well, we can try to believe it.</p>
-                                <p>On internet, we can read that this watercolor is not suited for mixing and it is adviced to use it directly from the pan. This behavior could be due to the number of pigments constituting the color. Indeed, mixing 2 colors each constituted of several pigments tends to lead to a muddy color.</p>
-                                <p>Let's make some experimentation !</p>
+                                <p>On internet, we can read that this watercolor is not suited for mixing and it is adviced to use it directly from the pan. This behavior could be due to the number of pigments constituting the color. Indeed, mixing 2 colors each constituted of several pigments tends to lead to a muddy color.
+                                A watercolor paint that you can't mix ? This may be heresy for some watercolorists.</p>
+                                <h2>Chromatography on Gansai Tambi watercolor</h2> 
                                 <p>Chromatography is a method of chemical analysis allowing to separate the component of a mixture <span lang="en">by selective adsorption of the constituents.</span></p>
                                 <p><span lang="en">Here, i made my own solvent with : water, salt and vinegar.</span></p>
                                 <p><span lang="en">Preparation :</span></p>
@@ -68,7 +74,7 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                     <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
                                     <p><img src="../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi4.jpg" alt="Gansai Tabi Kuretake Chromatography preparation results" style="width:150%;height:150%;"></p>
                                 </div>
-                                <p><span lang="en">Conclusion : </span></p>
+                                <h2>Conclusion</h2> 
                                 <p><span lang="en">Chromatography method shows quickly if a paint is cheap or not, and here, the results are far better from what I expected. 
                                 The paint spreads evenly across the paper strips. We don't see a clear color separation, which is very positive. I think the colors I tried are mostly mono pigmented (I still have doubt on 30). </span></p>
                                 <p><span lang="en">Despite these good results. I remain mixed on the use of this watercolor. The fact that the manufacturer does not indicate the pigments composing his paint leads to taking the risk of painting with pigments which would not be durable.
