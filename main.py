@@ -13,9 +13,14 @@ def hello():
 def home():
     return render_template("index.html")
 
-@app.route("/review/review_<name>")
+@app.route("/en/review/review_<name>")
 def review(name):
-    htmlname = "review_"+name+".html"
+    htmlname = "en/review_"+name+".html"
+    return render_template(htmlname)
+    
+@app.route("/fr/revue/revue_<name>")
+def revue(name):
+    htmlname = "fr/revue_"+name+".html"
     return render_template(htmlname)
     
 @app.route("/reviews")
@@ -29,7 +34,6 @@ def ongoing():
 @app.route("/about")
 def about():
     return render_template("about.html")
-
 
 @app.route("/galerie_peinture")
 def galery():
