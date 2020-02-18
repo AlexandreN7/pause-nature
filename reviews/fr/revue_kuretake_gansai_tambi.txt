@@ -29,7 +29,7 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                 </p>
                                 
                                 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
-                                    <p><img src="../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi1.jpg" alt="Palettes de peinture Gansai Kuretake" style="width:100%;height:100%;"></p>
+                                    <p><img src="../../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi1.jpg" alt="Palettes de peinture Gansai Kuretake" style="width:100%;height:100%;"></p>
                                 </div>
                                 <!-- end_header -->
                                 <h2>Premières impressions</h2>                                
@@ -41,10 +41,10 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                 <p>Lorsque l'on découvre une nouvelle palette d'aquarelle, la première chose a faire est un nuancier des différentes couleurs. Une petite astuce consiste a en faire 2, dont l'un sera percé pour
                                 comparer les juxtapositions de couleurs.</p>
                                 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
-                                    <p><img src="../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi2.jpg" alt="Nuancier du fabricant Gansai Tambi " style="width:100%;height:100%;"></p>
+                                    <p><img src="../../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi2.jpg" alt="Nuancier du fabricant Gansai Tambi " style="width:100%;height:100%;"></p>
                                 </div>
                                     <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
-                                    <p><img src="../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi3.jpg" alt="Mon propre nuancier de l'aquarelle Gansai Tambi" style="width:100%;height:100%;"></p>
+                                    <p><img src="../../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi3.jpg" alt="Mon propre nuancier de l'aquarelle Gansai Tambi" style="width:100%;height:100%;"></p>
                                 </div>
                                 <p>Avec un peu de recul, et plus d'experience, on constate rapidement que le comportement de cette aquarelle est très different des aquarelles europeenes.
                                 Premierement, elle s'active bien avec très peu d'eau de plus, les grands godets sont pratiques pour l'utilisation de grands pinceaux. Le comportement de cette aquarelle est due 
@@ -72,11 +72,11 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                 En effet, les pigments possèdent des pouvoirs d'adhérences au papier différents selon leur constitution chimique, la chromatographie permet de les séparer. Pour l'experience, le solvant séparateur sera constituée
                                 d'eau de sel et de vinaigre blanc.</p>
                                     <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
-                                    <p><img src="../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi5.jpg" alt="Gansai Tabi Kuretake Chromatography preparation " style="width:100%;height:100%;"></p>
+                                    <p><img src="../../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi5.jpg" alt="Gansai Tabi Kuretake Chromatography preparation " style="width:100%;height:100%;"></p>
                                 </div>
                                 <p><span lang="en">Voici les resultats :</span></p>
                                     <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
-                                    <p><img src="../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi4.jpg" alt="Gansai Tabi Kuretake Chromatography preparation results" style="width:150%;height:150%;"></p>
+                                    <p><img src="../../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi4.jpg" alt="Gansai Tabi Kuretake Chromatography preparation results" style="width:150%;height:150%;"></p>
                                 </div>
                                 <h2>Conclusion</h2> 
                                 <p>
