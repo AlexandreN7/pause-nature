@@ -19,7 +19,8 @@ article_list_en = [
 ]
 
 article_list_fr = [
-"revue_kuretake_gansai_tambi"
+"revue_kuretake_gansai_tambi",
+"revue_portable_painter"
 ]
 
 
