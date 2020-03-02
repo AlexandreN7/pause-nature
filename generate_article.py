@@ -76,7 +76,7 @@ for article in article_list_en :
    file_html.close()	
    template.close()
 
-#generation des articles français
+#generation des articles francais
 for article in article_list_fr :
    #Creation du fichier html
    template = open("templates/template.html", "r")

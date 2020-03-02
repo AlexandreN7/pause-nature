@@ -1,6 +1,6 @@
 
 <!--start_head-->
-<meta name="description" content="Dans cette article, je vous propose de faire un point sur l'aquarelle Gansai Tambi Kuretake">    
+<meta name="description" content="Dans cet article, je vous propose de faire un point sur l'aquarelle Gansai Tambi Kuretake">    
 <title>Revue : Gansai Tambi Watercolor</title>  
 <!--end_head-->
 
@@ -22,10 +22,11 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                 </p>
                             </header>
                             <div class="post-description">
-
+                                <h2>L'aquarelle qui vaut le coût ?</h2>
+                                
                                 <p>   
-                                L'aquarelle Gansai Tambi est maintenant disponible dans les magasins de materiels d'art. Cette aquarelle est fabriquée par l'entreprise japonaise Kuretake, dans cette article,
-                                je vous propose de regarder de plus près si les kilomètres parcourues par cette peinture sont justifiés.       
+                                L'aquarelle Gansai Tambi, fabriquée par l'entreprise japonaise Kuretake, est maintenant disponible dans les magasins de materiels d'art. Dans cet article,
+                                je vous propose de regarder de plus près si les kilomètres parcourus par cette peinture sont justifiés.       
                                 </p>
                                 
                                 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
@@ -33,12 +34,12 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                 </div>
                                 <!-- end_header -->
                                 <h2>Premières impressions</h2>                                
-                               <p> La palette de 12 godets Gansai Tambi a été ma toute première palette d'aquarelle, lors de l'achat, je n'avais absolument aucune connaissance ni experience
-                               dans la peinture aquarelle. A l'époque, je ne pense pas que se soit le prix qui m'ait convaincu (plutôt elevé dans les magasins parisiens) mais plutôt le packaging de la boite ...
-                               Il semblerait que l'experience ne fût pas mauvaise car j'ai usé la boite jusqu'a apercevoir le fond des godets (sur la photo les godets ne sont pas vides car j'ai essayé 
-                               de refrabriquer les couleurs épuisées). Une fois ma palette bien usée, j'ai investi dans la palette de 36 godets (acheté moins chère que la palette de 8 sur les sites chinois ...).</p>
+                               <p> La palette de 12 godets Gansai Tambi a été ma toute première palette d'aquarelle. Lors de l'achat, je n'avais absolument aucune connaissance ni expérience
+                               dans la peinture aquarelle. A l'époque, je ne pense pas que se soit le prix qui m'ait convaincu (plutôt elevé dans les magasins parisiens) mais plutôt le packaging de la boite...
+                               Il semblerait que l'expérience ne fût pas mauvaise car j'ai usé la boite jusqu'à apercevoir le fond des godets (sur la photo les godets ne sont pas vides car j'ai essayé 
+                               de re-frabriquer les couleurs épuisées). Une fois ma palette bien usée, j'ai investi dans la palette de 36 godets (acheté moins chère que la palette de 8 sur les sites chinois...).</p>
 
-                                <p>Lorsque l'on découvre une nouvelle palette d'aquarelle, la première chose a faire est un nuancier des différentes couleurs. Une petite astuce consiste a en faire 2, dont l'un sera percé pour
+                                <p>Lorsqu'on découvre une nouvelle palette d'aquarelle, la première chose a faire est un nuancier des différentes couleurs. Une petite astuce consiste a en faire 2, dont l'un sera percé pour
                                 comparer les juxtapositions de couleurs.</p>
                                 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
                                     <p><img src="../../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi2.jpg" alt="Nuancier du fabricant Gansai Tambi " style="width:100%;height:100%;"></p>
@@ -46,30 +47,30 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                     <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
                                     <p><img src="../../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi3.jpg" alt="Mon propre nuancier de l'aquarelle Gansai Tambi" style="width:100%;height:100%;"></p>
                                 </div>
-                                <p>Avec un peu de recul, et plus d'experience, on constate rapidement que le comportement de cette aquarelle est très different des aquarelles europeenes.
-                                Premierement, elle s'active bien avec très peu d'eau de plus, les grands godets sont pratiques pour l'utilisation de grands pinceaux. Le comportement de cette aquarelle est due 
-                                a son liant. Traditionnellement, le liant utilisé est la gomme arabique associée à d'autres constituants comme le miel (pour Sennelier), mais pour l'aquarelle Gansai Tambi, une colle
-                                proprietaire est utilisée. Après quelques recherches, il semble que cette colle soit fabriqués a partir d'os et peau d'animaux.</p>
-                                <h2>Mes premieres observations</h2>
+                                <p>Avec un peu de recul et plus d'expérience, on constate rapidement que le comportement de cette aquarelle est très different des aquarelles européennes.
+                                Premierement, elle s'active bien avec très peu d'eau, de plus, les grands godets sont pratiques pour l'utilisation de grands pinceaux. Le comportement de cette aquarelle est due 
+                                a son liant ; traditionnellement, le liant utilisé est la gomme arabique associée à d'autres constituants comme le miel (pour Sennelier), mais pour l'aquarelle Gansai Tambi, une colle
+                                propriétaire est utilisée. Après quelques recherches, il semble que cette colle soit fabriquée a partir d'os et peau d'animaux.</p>
+                                <h2>Mes premières observations</h2>
                                 <ul style="list-style-type: circle;">
                                 <li>S'active et se réactive plutôt bien avec peu d'eau</li>
-                                <li>Il me semble que la qualité des couleurs est assez hétérogène : les rouges et verts me semblent très intenses alors que les couleurs : 61 (ultramarine pale) ,64 (ultramarine), 46 (burnt sienna) et 47(raw umber deep) semblent pâles.</li>
+                                <li>Il me semble que la qualité des couleurs est assez hétérogène : les rouge et vert me semblent très intenses alors que les couleurs suivantes semblent pâles : 61 (ultramarine pale) ,64 (ultramarine), 46 (burnt sienna) et 47(raw umber deep).</li>
                                 <li>De manière générale, la peinture est plutôt opaque et possède un aspect brillant lorsqu'elle est sèche</li>
                                 <li>Très peu de granulation</li>
                                 <li>AP (approved product) Seal (peinture non toxique)</li>
                                 </ul>
                                 <p><br>Les premières observations sont plutôt positives, mais regardons maintenant le gros point noir de cette aquarelle : les pigments la constituant sont un mystère. Il n'y a aucune information 
-                                sur le site officiel du fabricant. L'industriel assure que la peinture est fabriquée selon un recette artisanale japonaise. En faisant un effort, on peut essayer d'y croire.
+                                sur le site officiel du fabricant. L'industriel assure que la peinture est fabriquée selon une recette artisanale japonaise. En faisant un effort, on peut essayer d'y croire.
                                 Après quelques recherches approfondies sur internet, on remarque que bon nombre de personnes déconseillent de mélanger les différentes couleurs de cette palette ensemble ou avec les couleurs des autres fabricants.
                                 C'est quand même dommage ! Petite remarque, les fabricants de peintures deconseillent toujours de mélanger leur peinture avec d'autres marques, c'est pour moi un argument purement commercial. 
                                 <br>
-                                Mais pour cette aquarelle en particulier, cet avertissement pourrait trouver son origine sur le mystère de la composition de l'aquarelle, en effet, une peinture aquarelle lorsqu'elle constituée de plusieurs pigments a tendance
-                                a ne pas être propice aux mélanges qui résultent souvent en une couleur désaturée un peu boueuse. J'ai fait quelques mélanges et en effet, ils ne sont pas très convaincant.</p>
+                                Mais pour cette aquarelle en particulier, cet avertissement pourrait trouver son origine sur le mystère de la composition de l'aquarelle. En effet, une peinture aquarelle lorsqu'elle constituée de plusieurs pigments a tendance
+                                à ne pas être propice aux mélanges qui résultent souvent en une couleur désaturée un peu boueuse. J'ai fait quelques mélanges et en effet, ils ne sont pas très convainquant.</p>
             
-                                <p>Utiliser une peinture que l'on ne peut pas mélanger ? N'est ce pas une hérésie pour un aquarelliste ? Pour tirer les choses au clair, j'ai fait quelques experiences.</p>
+                                <p>Utiliser une peinture qu'on ne peut pas mélanger ? N'est-ce pas une hérésie pour un aquarelliste ? Pour tirer les choses au clair, j'ai fait quelques experiences.</p>
                                 <h2>Chromatographie appliquée à l'aquarelle Gansai Tambi</h2> 
-                                <p>La chromatographie est une méthode scientifique dont le but est de spérare les différents constituants d'une solution. Pour notre expérience, nous allons essayer de séparer les pigments de la peinture.
-                                En effet, les pigments possèdent des pouvoirs d'adhérences au papier différents selon leur constitution chimique, la chromatographie permet de les séparer. Pour l'experience, le solvant séparateur sera constituée
+                                <p>La chromatographie est une méthode scientifique dont le but est de spérarer les différents constituants d'une solution. Pour notre expérience, nous allons essayer de séparer les pigments de la peinture.
+                                En effet, les pigments possèdent des pouvoirs d'adhérence au papier différents selon leur constitution chimique et la chromatographie permet de les séparer. Pour l'expérience, le solvant séparateur sera constitué
                                 d'eau de sel et de vinaigre blanc.</p>
                                     <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
                                     <p><img src="../../static/img/review_kuretake_gansai_tambi/review_kuretake_gansai_tambi5.jpg" alt="Gansai Tabi Kuretake Chromatography preparation " style="width:100%;height:100%;"></p>
@@ -84,9 +85,9 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                 d'une peinture composé d'un pigment unique. J'ai quand même un doute sur le rouge n°30, et je n'ai cependant pas testé toutes les couleurs de la palette.
                                 </p>
                                 <p>
-                                Malgré ces bons résultat, je reste perplexe sur l'utilisation de cette aquarelle. Le fait que le fabricant ne communiquee rien sur les constituants de cette peinture est douteux et n'invite pas a prendre le risque de peindre
-                                un chef d'oeuvre avec une peinture qui ne soit pas durable (certains pigments sont instables et leurs couleurs changent l'exposition à la lumière, le temps ou encore l'humidité). Je déconseille donc l'utilisation de cette aquarelle 
-                                pour tout travail sérieux, et l'utiliser pour des dessins ou des travaux préliminaires.
+                                Malgré ces bons résultats, je reste perplexe sur l'utilisation de cette aquarelle. Le fait que le fabricant ne communiquee rien sur les constituants de cette peinture est douteux et n'invite pas a prendre le risque de peindre
+                                un chef d'oeuvre avec une peinture qui ne soit pas durable (certains pigments sont instables et leur couleur change selon l'exposition à la lumière, le temps ou encore l'humidité). Je déconseille donc l'utilisation de cette aquarelle 
+                                pour tout travail sérieux, et recommande de l'utiliser pour des dessins ou des travaux préliminaires.
                                 </p>
                             </div>
 					</div>
