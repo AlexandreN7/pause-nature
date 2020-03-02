@@ -6,12 +6,23 @@ from flask import Flask, render_template
 app = Flask(__name__)
 
 @app.route("/")
-def hello():
-    return render_template("index.html")
+def root():
+    return render_template("fr/index.html")
+    
+@app.route("/fr/")
+def root_fr():
+    return render_template("fr/index.html")
+    
+@app.route("/en/")
+def root_en():
+    return render_template("en/index.html")
 
 @app.route("/home")
 def home():
-    return render_template("index.html")
+    return render_template("fr/index.html")
+    
+    
+    
 
 @app.route("/en/review/review_<name>")
 def review(name):

@@ -129,8 +129,8 @@ for article in article_list_fr :
    
 
 
-#generation de l'index
-index_html=open("templates/index.html","w")
+#generation de l'index EN
+index_html=open("templates/en/index.html","w")
 print("Generation de l'index :")
 template = open("templates/template.html", "r")
 for ligne in template :
@@ -165,7 +165,45 @@ for ligne in template :
          index_html.write('</a>')
 
    index_html.write(ligne)#ecriture des lignes du templates
-	
+index_html.close()	
+template.close()
+
+#generation de l'index FR
+index_html=open("templates/fr/index.html","w")
+print("Generation de l'index :")
+template = open("templates/template.html", "r")
+for ligne in template :
+   if "</head>" in ligne : #insertion du <head>
+      index_html.write('<meta name="p:domain_verify" content="cea44afbf402c3b5741620e0e26796e7"/>')
+      index_html.write('\n')
+      index_html.write('<meta name="description" content="Promoting a positive culture through articles on art, photography and paint. This website offers articles, tutorials and reviews on for drawer and watercolorist.">')#du titre
+      index_html.write('\n')
+      index_html.write('<title>Pause nature - The website dedicated to paint and nature</title>')#du titre
+      index_html.write('\n')
+      index_html.write('<link rel="alternate" hreflang="fr" href="www.pause-nature.fr">')
+               
+   if "content_beginning" in ligne : #debut index
+      index_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
+      for article in article_list_fr :
+         index_html.write('<a href=fr/review/'+article+' >')
+         file_article = open("reviews/fr/"+article+".txt", "r")
+         for ligne_article in file_article :
+            if "start_head" in ligne_article :
+               write = 0
+            if "end_head" in ligne_article :
+               write = 1
+            if write == 1 :
+            
+                if "end_header" in ligne_article :
+                   index_html.write('<p>...</p>')
+                   index_html.write('</div>')
+                   index_html.write('</section>')
+                   break
+                else :
+                   index_html.write(ligne_article)
+         index_html.write('</a>')
+
+   index_html.write(ligne)#ecriture des lignes du templates
 index_html.close()	
 template.close()
 
