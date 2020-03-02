@@ -185,7 +185,7 @@ for ligne in template :
    if "content_beginning" in ligne : #debut index
       index_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
       for article in article_list_fr :
-         index_html.write('<a href=fr/review/'+article+' >')
+         index_html.write('<a href=fr/revue/'+article+' >')
          file_article = open("reviews/fr/"+article+".txt", "r")
          for ligne_article in file_article :
             if "start_head" in ligne_article :
