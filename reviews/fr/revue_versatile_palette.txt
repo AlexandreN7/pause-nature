@@ -35,27 +35,26 @@ style="width:100%;height:100%;"></p>
                             </div>
 
                                 <!-- end_header -->  
-<p>Designing the right palette of watercolors can be a complicated exercise. And believe me, the paint manufacturers are not really there to help us. Let's be honest, when we started watercolor, we paid far too much attention to the commercial arguments of paint manufacturers such as: names of the paint or the color displayed on the label.</p>
-<p>In this article, I suggest you ignore the commercial arguments to go directly to the determining points to choose the paint that suits you and thus build up an effective and versatile palette..</p>
-<p><span style="text-decoration: underline;">A bit of theory first :</span></p>
-<p>Watercolor paint is made of :</p>
+<p>Avec plusieurs centaines disponibles, composer une palette d'aquarelle équilibrée peut être un exercice laborieux et les fabricants de peinture ne sont pas vraiment là pour nous aider. Soyons honnète, le débutant en aquarelle s'attarde essentiellement sur le nom des couleurs, la renommée d'un fabricant ou encore la couleur de l'étiquette.</p>
+<p>Dans cette article, je vous propose de mettre de côté les arguments commerciaux et de se concentrer sur les points essentiels pour la construction d'une palette d'aquarelle.</p>
+<h2>Un peu de théorie:</h2>
+<p>L'aquarelle est fabriquée avec :</p>
 <ul>
-<li>One or severals pigments (10-20% of total paint composition)</li>
-<li>A backbone composition&nbsp;(60 % of total paint composition) a proprietary chemical solution, unique to each manufacturer, sometime made of :
+<li>Un ou plusieurs pigments (10-20% du volume total de la peinture)</li>
+<li>Un médium (60 % du volume total) une composition chimique propriétaire, unique pour chaque fabricant de peinture. Il peut inclure 
 <ul>
-<li>a brightener (lighten the paint when dry)</li>
-<li>a humectant (to help paint dilution)</li>
-<li>a binder to carry the pigment and to help it to stay on a page. Historically, binder is gum arabic. With deforestation and the increase in the price of arabic gum, the 
-binder is often replaced by a polymer (glycol). Brand like sennelier still use arabic gum and honey as binder</li>
+<li>un azurant, composé de cristaux transparents qui eclaircissent la peinture lorsqu'elle sèche</li>
+<li>un humidifiant, traditionnellement un sirop qui peut pour certain fabricant être du miel (Sennelier) permettant de retenir l'humidité </li>
+<li>Un liant en charge de transporter les pigments et les fixer sur le papier. Historiquement le liant est la gomme arabique mais on trouve également des mixtures composées de glycol synthétique.</li>
 </ul>
 </li>
-<li>water (10-20%)</li>
+<li>De l'eau (10-20%)</li>
 </ul>
 <p>&nbsp;</p>
-<h4><span style="text-decoration: underline;"><strong>Rule 1 : Buy new colors based on their characteristics</strong></span></h4>
+<h2>Règle n°1 : Acheter les couleurs en considérant leurs caractéristiques</h2>
 
-<p><span style="text-decoration: underline;">Transparency :</span></p>
-<p>Transparency is the amount of light that can passes through a color:</p>
+<p><span style="text-decoration: underline;">La transparence :</span></p>
+<p> La transparence peut être définie comme la capacité de la peinture à laisser traverser la lumière:</p>
 <ul>
 <li>transparent : a lot of light passes</li>
 <li>opaque : little or no light passes</li>
