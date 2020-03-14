@@ -31,7 +31,7 @@ bottles.
                                 But historically ink was kept solid in the form of stick. To cut a long story short, an ink is a solvent in which pigments floats. Once the ink is 
 deposited
                                 on the sheet, the solvent evaporates leaving only the pigments. The pysical force in charge of maintaining the pigments on the sheet is called "the 
-vand des Waals force". 
+van der Waals force". 
                                 This force can be more or less strong and wetting the paper can break this force and thus move the pigments. The ink is therefore not waterproof.
                                 <br>
                                 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
@@ -46,14 +46,14 @@ vand des Waals force".
 chemical structure
                                 of the ink, thereby strenghtening the van der Waals forces applied. It is important to note that an ink is never 100% waterproof and some stronger 
 solvent like alcohol
-                                can still break these forces and therefore earse the ink.</p>
+                                can still break these forces and therefore erase the ink.</p>
 
 
                                 <h2>Criteria to consider</h2>
                                 Here are the criteria to consider when choosing an ink:
 								<o1>
 							    <li>Water resistance - as indicated above, the effort to break the chemical bonds of the dried ink </li>
-								<li>Intensity of black - quality and concentration of the blac pigment used</li>
+								<li>Intensity of black - quality and concentration of the black pigment used</li>
                                 <li>Clogging - can this ink be used with a fountain pen ? Will this ink kill my beloved brushes ? </li>
 								</o1>
                         								
@@ -64,7 +64,7 @@ solvent like alcohol
 work.
                                 When not used, bottles of ink shall be kept corked as a prevention against thickening due to evaporation. when an ink bottle reaches the end of its 
 life, its consistency
-                                is thicker than a new one. That is why, it can be intereseting to keep a new bottle for the fine lines of a drawing. It is also possible to dilute 
+                                is thicker than a new one. That is why, it can be interesting to keep a new bottle for the fine lines of a drawing. It is also possible to dilute 
 with a bit of water the end of an old bottle.  
                                 
 								Finding the perfect black ink for watercolor can be a real challenge. During my watercolor adventure, I accumulated many bottles of ink,
