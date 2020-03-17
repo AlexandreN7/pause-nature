@@ -26,11 +26,11 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                             <div class="post-description">
                                 <p></p>
                                 <h2>Qu'est-ce qui rend une encre résistante à l'eau ?</h2>
-                                L'encre noire est très couramment utilisée pour amener du contraste à la peinture ; notamment pour les ligne. Aujourd'hui, les encres peuvent être achetées sous forme liquide 
+                                L'encre noire est très couramment utilisée pour amener du contraste à la peinture aquarelle. Aujourd'hui, les encres peuvent être trouvées sous forme liquide 
                                 dans des bouteilles. Historiquement toutefois, l'encre était conservée solide sous la forme d'un baton. 
-                                Pour faire court, une encre est un solvant dans lequel les pigments flottent. Une fois que l'encre est déposée sur le papier, le solvant s'évapore pour ne laisser que les pigments. 
-                                La force en charge de mantenir les pigments sur le papier est nommée la force de "Van Der Waals".
-                                Cette force peut être plus ou moins forte et mouiller le papier peut la briser, et donc déplacer les pigments. L'encre n'est donc pas résistante à l'eau.                                 
+                                Pour faire court, une encre est constituée d'un solvant dans lequel les pigments sont en suspension. Une fois que l'encre est déposée sur le papier, le solvant s'évapore pour ne laisser que les pigments. 
+                                La force en charge de mantenir les pigments sur le papier est nommée en physique la force de "Van Der Waals".
+                                Cette liaison peut être plus ou moins forte; mouiller le papier peut la briser, et donc déplacer les pigments. L'encre n'est alors pas résistante à l'eau.                                 
                                 <br>
                                 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
                                 <img width=100% height=100%
@@ -40,8 +40,8 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                 <!-- end_header -->
                                 <br>
                                 <br>
-                                <p>Dans le cas d'une entre résistante à l'eau, les additifs qui sont ajoutés par les fabriquants effectuent une réaction lorsque l'encre sèche. La réaction chimique modifie
-                                la structure chimique de l'encre donc renforce la force de "Van Der Walls". Il est important de noter qu'une encre n'est jamais 100% résistante à l'eau. Certains solvant comme l'alcohol peuvent casser les forces en jeu.</p>
+                                <p>Dans le cas d'une entre résistante à l'eau, les additifs qui sont ajoutés par les fabriquants effectuent une réaction lorsque l'encre sèche. Cette réaction modifie
+                                la structure chimique de l'encre et donc renforce la force de "Van Der Walls". Il est important de noter qu'une encre n'est jamais 100% résistante à l'eau, certains solvants comme l'alcool peuvent casser les forces en jeu.</p>
                                 
                                 <h2>Critères à considérer</h2>
                                 Ci-dessous sont présentés les critères à considérer lors du choix de l'encre :
@@ -72,7 +72,7 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                     <li>Pigma Micro (0.8)</li>
                                 </o1>
                                 <br>                                                                
-                                Mon évaluation est composées de trois tests :
+                                Mon évaluation est composée de trois tests :
                                 <o1>
                                     <li>Un échantillon d'écriture de 30 secondes de séchage</li>
                                     <li>Un échantillon d'écriture de 5 minutes de séchage</li>
@@ -144,10 +144,10 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                                                                                                             
                                 <br> 
                                                                 <h2>Conclusion</h2>
-                                Il ya beaucoup d'encres noire sur le marché. Actuellement, ma favorite est la Platinum Carbon ink combinée avec le lamy 2000. 
+                                Il y a beaucoup d'encres noire sur le marché. Actuellement, ma favorite est la Platinum Carbon ink combinée avec le lamy 2000. 
                                 <br> 
                                 <br> 
-                                Note : Noodler vent une encre nommée bullet-proof qui semble avoir bons avis. Cette encre mérite probablement un essai. 
+                                Note : Noodler vend une encre nommée bullet-proof qui semble avoir bons avis. Cette encre mérite probablement un essai. 
                                 </p>
                             </div>
                         </section>
