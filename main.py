@@ -50,6 +50,10 @@ def about():
 def galery():
     return render_template("galerie_peinture.html")
     
+@app.route("/galerie_pictures")
+def galery_picture():
+    return render_template("galerie_pictures.html")
+    
 @app.route("/sitemap")
 def sitemap():
     return render_template("sitemap.xml")
