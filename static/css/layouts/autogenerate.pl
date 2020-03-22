@@ -188,17 +188,7 @@ print FILE "* {
     grid-template-rows: repeat($nbrLines, 300px);
 }
 
-\@media only screen and (max-width: 699px) {
-  .gallery { 
-    display: grid;
-    justify-content: center;
-    grid-template-columns: repeat(2, 300px);
-    grid-gap: 20px;
-    grid-template-rows: repeat(".($nbrLines*2).", 300px);
-  }
-}
-
-\@media only screen and (max-width: 400px) {
+\@media only screen and (max-width: 500px) {
   .gallery { 
     display: grid;
     justify-content: center;
