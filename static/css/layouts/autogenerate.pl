@@ -146,7 +146,7 @@ for (0..scalar(@tab)-1)
 }
 print FILE "\n";
 print FILE "\n";
-print FILE "    <div class=\"gallery\">\n";
+print FILE "    <div class=\"gallery content pure-u-1 pure-u-md-1-2 pure-u-lg-1-3\">\n";
 for (0..scalar(@tab)-1)
 {
     my $name = $tab[$_];
@@ -154,7 +154,7 @@ for (0..scalar(@tab)-1)
     $name =~ s/.jpg//g;
     print FILE "         <label class=\"gallery__item\" for=\"".$_."\">\n"; 
     print FILE "             <a href=\"/sheet_$name\" target=\"_blank\">\n";
-    print FILE "             <img class=\"cover\" height=\"100%\" width=\"100%\" min-height=\"50px\" object-fit=\"cover\" src=\"".$tab[$_]."\" alt=\"".$desc[$_]."\"></a>\n";
+    print FILE "             <img class=\"cover\" height=100% width=100% min-height=\"50px\" src=\"".$tab[$_]."\" alt=\"".$desc[$_]."\"></a>\n";
     print FILE "         </label>\n";
     
     ### main.py
