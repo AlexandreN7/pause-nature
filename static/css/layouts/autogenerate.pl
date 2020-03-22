@@ -180,14 +180,12 @@ print FILE "* {
 
 .cover {object-fit: cover;}
 
-\@media only screen and (min-width:700px) {
-    .gallery {
+.gallery {
     display: grid;
     justify-content: center;
     grid-template-columns: repeat(4, 300px);
     grid-gap: 20px;
     grid-template-rows: repeat($nbrLines, 300px);
-    }
 }
 
 \@media only screen and (max-width:699px) {
