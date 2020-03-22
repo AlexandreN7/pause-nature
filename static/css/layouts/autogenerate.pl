@@ -180,7 +180,7 @@ print FILE "* {
 
 .cover {object-fit: cover;}
 
-\@media (min-width:700px) {
+\@media only screen and (min-width:700px) {
     .gallery {
     display: grid;
     justify-content: center;
@@ -190,7 +190,7 @@ print FILE "* {
     }
 }
 
-\@media (max-width:699px) {
+\@media only screen and (max-width:699px) {
   .gallery { 
     display: grid;
     justify-content: center;
@@ -200,7 +200,7 @@ print FILE "* {
   }
 }
 
-\@media (max-width:400px) {
+\@media only screen and (max-width:400px) {
   .gallery { 
     display: grid;
     justify-content: center;
