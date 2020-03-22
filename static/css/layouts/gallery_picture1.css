@@ -3,13 +3,8 @@
   -webkit-animation: fadeIn 0.5s;
           animation: fadeIn 0.5s;
 }
-img {
-  height: 100%;
-  width: 100%;
-  min-height: 50px;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
+
+.cover {object-fit: cover;}
 
 .gallery {
   display: grid;

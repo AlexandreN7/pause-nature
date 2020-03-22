@@ -154,7 +154,7 @@ for (0..scalar(@tab)-1)
     $name =~ s/.jpg//g;
     print FILE "         <label class=\"gallery__item\" for=\"".$_."\">\n"; 
     print FILE "             <a href=\"/sheet_$name\" target=\"_blank\">\n";
-    print FILE "             <img src=\"".$tab[$_]."\" alt=\"".$desc[$_]."\"></a>\n";
+    print FILE "             <img class=\"cover\" height=\"100%\" width=\"100%\" min-height=\"50px\" object-fit=\"cover\" src=\"".$tab[$_]."\" alt=\"".$desc[$_]."\"></a>\n";
     print FILE "         </label>\n";
     
     ### main.py
@@ -177,13 +177,8 @@ print FILE "* {
   -webkit-animation: fadeIn 0.5s;
           animation: fadeIn 0.5s;
 }
-img {
-  height: 100%;
-  width: 100%;
-  min-height: 50px;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
+
+.cover {object-fit: cover;}
 
 .gallery {
   display: grid;
