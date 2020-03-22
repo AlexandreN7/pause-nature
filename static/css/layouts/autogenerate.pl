@@ -334,9 +334,9 @@ src=\"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-49
             </div>
     </header>
     
-    <center>
+    <div class=\"photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3\">
     <img src=\"$tab[$index]\" alt=\"$desc[$index]\">
-    </center>
+    </div>
     
 <div> <!-- End div pure blabla -->
             
