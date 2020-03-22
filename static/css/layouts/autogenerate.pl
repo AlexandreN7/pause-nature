@@ -154,7 +154,7 @@ for (0..scalar(@tab)-1)
     $name =~ s/.jpg//g;
     print FILE "         <label class=\"gallery__item\" for=\"".$_."\">\n"; 
     print FILE "             <a href=\"/sheet_$name\" target=\"_blank\">\n";
-    print FILE "             <img class=\"cover pure-u-1 pure-u-md-1-1 pure-u-lg-1-1\" height=100% width=100% min-height=\"50px\" src=\"".$tab[$_]."\" alt=\"".$desc[$_]."\"></a>\n";
+    print FILE "             <img class=\"cover\" height=100% width=100% min-height=\"50px\" src=\"".$tab[$_]."\" alt=\"".$desc[$_]."\"></a>\n";
     print FILE "         </label>\n";
     
     ### main.py
@@ -188,6 +188,27 @@ print FILE "* {
   grid-template-rows: repeat($nbrLines, 300px);
 }
 
+\@media (max-width:500px) {
+  .gallery { 
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(2, 300px);
+    grid-gap: 20px;
+    grid-template-rows: repeat(".($nbrLines*2).", 300px);
+  }
+}
+
+\@media (max-width:400px) {
+  .gallery { 
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(1, 300px);
+    grid-gap: 20px;
+    grid-template-rows: repeat(".scalar(@tab).", 300px);
+  }
+}
+
+
 .gallery__item {
   cursor: pointer;
   border-radius: 5px;
@@ -201,6 +222,7 @@ print FILE "* {
   -webkit-transform: scale(1.1) rotate(5deg);
           transform: scale(1.1) rotate(5deg);
 }
+
 .gallery__select {
   display: none;
 }\n";
@@ -218,12 +240,6 @@ for (0..scalar(@tab)-1)
     print FILE ".gallery__select:nth-of-type($nbr):checked ~ .gallery .gallery__item:nth-of-type($nbr):hover {\n";
     print FILE "  -webkit-transform: none;\n";
     print FILE "          transform: none;\n";
-    print FILE "}\n";
-    print FILE "\@media (max-width: 768px) {\n";
-    print FILE "  .gallery__select:nth-of-type($nbr):checked ~ .gallery .gallery__item:nth-of-type($nbr) {\n";
-    print FILE "    grid-row: 1/-3;\n";
-    print FILE "    grid-column: 1/-1;\n";
-    print FILE "  }\n";
     print FILE "}\n";
 }
 print FILE "\@-webkit-keyframes fadeIn {
