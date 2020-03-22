@@ -188,16 +188,13 @@ print FILE "* {
     grid-template-rows: repeat($nbrLines, 300px);
 }
 
-\@media only screen and (max-width: 500px) {
-  .gallery { 
-    display: grid;
-    justify-content: center;
-    grid-template-columns: repeat(1, 300px);
-    grid-gap: 20px;
-    grid-template-rows: repeat(".scalar(@tab).", 300px);
+\@media (max-width: 768px) {
+  .gallery {
+    grid-gap: 10px;
+    grid-template-columns: repeat(auto-fit, 50px);
+    grid-template-rows: repeat(auto-fit, 50px);
   }
 }
-
 
 .gallery__item {
   cursor: pointer;
@@ -230,6 +227,12 @@ for (0..scalar(@tab)-1)
     print FILE ".gallery__select:nth-of-type($nbr):checked ~ .gallery .gallery__item:nth-of-type($nbr):hover {\n";
     print FILE "  -webkit-transform: none;\n";
     print FILE "          transform: none;\n";
+    print FILE "}\n";
+    print FILE "\@media (max-width: 768px) {\n";
+    print FILE "  .gallery__select:nth-of-type(1):checked ~ .gallery .gallery__item:nth-of-type(1) {\n";
+    print FILE "    grid-row: 1/-3;\n";
+    print FILE "    grid-column: 1/-1;\n";
+    print FILE "  }\n";
     print FILE "}\n";
 }
 print FILE "\@-webkit-keyframes fadeIn {
