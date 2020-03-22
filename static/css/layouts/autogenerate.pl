@@ -180,15 +180,17 @@ print FILE "* {
 
 .cover {object-fit: cover;}
 
-.gallery {
-  display: grid;
-  justify-content: center;
-  grid-template-columns: repeat(4, 300px);
-  grid-gap: 20px;
-  grid-template-rows: repeat($nbrLines, 300px);
+\@media (min-width:700px) {
+    .gallery {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(4, 300px);
+    grid-gap: 20px;
+    grid-template-rows: repeat($nbrLines, 300px);
+    }
 }
 
-\@media (max-width:500px) {
+\@media (max-width:699px) {
   .gallery { 
     display: grid;
     justify-content: center;
