@@ -1,4 +1,5 @@
 my @tab = ();
+### Add new link at the beginning
 push @tab, "https://cdn.pixabay.com/photo/2020/03/18/15/37/bee-4944489_960_720.jpg";
 push @tab, "https://cdn.pixabay.com/photo/2020/03/18/15/36/bee-4944485_960_720.jpg";
 push @tab, "https://cdn.pixabay.com/photo/2020/03/18/15/36/bee-4944486_960_720.jpg";
@@ -64,6 +65,7 @@ push @tab, "https://cdn.pixabay.com/photo/2020/03/17/18/35/caterpillar-4941500_9
 push @tab, "https://cdn.pixabay.com/photo/2020/03/18/15/37/flower-4944492_960_720.jpg";
 
 my @desc = ();
+### Add new desc at the beginning
 push @desc, "Bee Abeille Prunus Alpes Alps";
 push @desc, "Bee Abeille Prunus Alpes Alps";
 push @desc, "Bee Abeille Prunus Alpes Alps";
@@ -128,9 +130,10 @@ push @desc, "Mountain Montagne Chemin des Aronards Ponsonnas Alpes Alps";
 push @desc, "Chenille Caterpillar Animal";
 push @desc, "Fleur Violette Purple Flower Macro";
 
+# Get path 
 my @path_tab = split (" ", `pwd`);
 my $path = $path_tab[0];
-$path =~ s/pause-nature\/pause-nature\/(.*)?/pause-nature\/pause-nature/g;
+$path =~ s/pause-nature\/(.*)?/pause-nature\//g;
 my $templatePath = $path."/templates";
 my $cssPath = $path."/static/css/layouts";
 
@@ -282,9 +285,9 @@ sub autoHTML
         <meta name=\"msvalidate.01\" content=\"ADBE1D6C621C0EE7980A84478EED53ED\" />
         <meta charset=\"utf-8\">
         <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">
-        <link rel=\"stylesheet\" href=\"../../static/css/layouts/pure-min.css\">
-        <link rel=\"stylesheet\" href=\"../../static/css/layouts/grids-responsive-min.css\">
-        <link rel=\"stylesheet\" href=\"../../static/css/layouts/blog.css\">
+        <link rel=\"stylesheet\" href=\"../static/css/layouts/pure-min.css\">
+        <link rel=\"stylesheet\" href=\"../static/css/layouts/grids-responsive-min.css\">
+        <link rel=\"stylesheet\" href=\"../static/css/layouts/blog.css\">
 
         <script type=\"application/ld+json\">{\"\@context\" : \"http://schema.org\",\"\@type\" : \"Article\",\"name\" : \"pictures\",\"author\" : {\"\@type\" : \"Person\",\"name\" : \"Amandine Poterala\"},\"articleSection\" : \"Pictures\"}</script>
         <meta name=\"description\" content=\"Amandine's pictures.\">    
@@ -326,9 +329,9 @@ src=\"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-49
                     </nav>
 
                     <p><center>
-                        <a href=\"https://www.instagram.com/archiwyzard/\"><img src=\"../../static/img/common/logo_instagram.jpg\" alt=\"logo instagram\" height=\"30px\" width=\"30px\" /></a>
-                        <a href=\"https://www.deviantart.com/archiwyzard/\"><img src=\"../../static/img/common/logo_deviantart.jpeg\" alt=\"logo deviantart\" height=\"30px\" width=\"30px\" /></a>
-                        <a href=\"https://pixabay.com/users/sinason-14315822/\"><img src=\"../static/img/common/logo_pixabay.jpeg\" alt=\"logo pixabay\" height=\"30px\" width=\"30px\" /></a>
+                        <a href=\"https://www.instagram.com/archiwyzard/\"><img src=\"../static/img/common/logo_instagram.jpg\" alt=\"logo instagram\" height=\"30px\" width=\"30px\" /></a>
+                        <a href=\"https://www.deviantart.com/archiwyzard/\"><img src=\"../static/img/common/logo_deviantart.jpeg\" alt=\"logo deviantart\" height=\"30px\" width=\"30px\" /></a>
+                        <a href=\"https://pixabay.com/users/sinason-14315822/\"><img src=\"../static/img/common/logo_pixabay.jpg\" alt=\"logo pixabay\" height=\"30px\" width=\"30px\" /></a>
                     <center></p>
                 </div>
             </div>
