@@ -141,7 +141,6 @@ my $cssPath = $path."/static/css/layouts";
 ### HTML part 
 ### To copy in HTML file 
 ######################################
-open (FILE_main, ">$templatePath/copyToMainPy.txt");
 open (FILE, ">$templatePath/htmlfile.txt");
 for (0..scalar(@tab)-1)
 {
@@ -160,15 +159,11 @@ for (0..scalar(@tab)-1)
     print FILE "             <img class=\"cover\" height=100% width=100% min-height=\"50px\" src=\"".$tab[$_]."\" alt=\"".$desc[$_]."\"></a>\n";
     print FILE "         </label>\n";
     
-    ### main.py
-    autoMain($name);
-    
     #### Generate file HTML for picture
     autoHTML($name, $_);
 }
 print FILE "    </div> <!-- End div classe gallery -->\n";
 close(FILE);
-close(FILE_main);
 
 ######################################
 ### auto generate CSS
@@ -255,20 +250,6 @@ print FILE "\@-webkit-keyframes fadeIn {
   }
 }\n";
 close(FILE);
-
-######################################
-### autogenerate sheets for pictures (to add in main.py
-######################################
-sub autoMain 
-{
-    my ($name) = @_;
-    my $testName = $name;
-    $testName =~ s/\-/\_/g;
-    ### file main.py
-    print FILE_main "\@app.route(\"/sheet_$name\")
-def test_$testName():
-    return render_template(\"sheet_$name.html\")\n\n";
-}
 
 sub autoHTML
 {
