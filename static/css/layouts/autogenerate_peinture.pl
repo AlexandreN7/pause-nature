@@ -141,8 +141,8 @@ print FILE "* {
 \@media (max-width: 768px) {
   .gallery {
     grid-gap: 10px;
-    grid-template-columns: repeat(auto-fit, 50px);
-    grid-template-rows: repeat(auto-fit, 50px);
+    grid-template-columns: repeat(auto-fit, 100px);
+    grid-template-rows: repeat(auto-fit, 100px);
   }
 }
 
