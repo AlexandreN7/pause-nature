@@ -329,7 +329,7 @@ src=\"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-49
             </div>
     </header>
     
-    <div class=\"photo-box pure-u-1 pure-u-md-1-1 pure-u-lg-1-1\">
+    <div class=\"photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-2\">
     <img width=100% height=100% src=\"$tab[$index]\" alt=\"$desc[$index]\">
     </div>
     
