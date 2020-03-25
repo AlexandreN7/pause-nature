@@ -1,5 +1,7 @@
 my @tab = ();
 ### Add new link at the beginning
+push @tab, "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddt70s9-1ddc4293-2c21-4dcd-90b8-a61a0ca85a06.jpg/v1/fill/w_1280,h_856,q_75,strp/the_temple_of_hephaestus_by_archiwyzard_ddt70s9-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU2IiwicGF0aCI6IlwvZlwvNTQ4NTEyMjUtMTNlZC00OTk5LWJlMjgtODgzZTE0M2U0NjFjXC9kZHQ3MHM5LTFkZGM0MjkzLTJjMjEtNGRjZC05MGI4LWE2MWEwY2E4NWEwNi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8XdjbTMoToZxHhUVPyo0-RDl-AoOC83jZrkgEctMxS4";
+push @tab, "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddt28or-a8dd3d92-c299-43a4-bbf6-ff556b44ebd4.jpg/v1/fill/w_1280,h_797,q_75,strp/cariatides_by_archiwyzard_ddt28or-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzk3IiwicGF0aCI6IlwvZlwvNTQ4NTEyMjUtMTNlZC00OTk5LWJlMjgtODgzZTE0M2U0NjFjXC9kZHQyOG9yLWE4ZGQzZDkyLWMyOTktNDNhNC1iYmY2LWZmNTU2YjQ0ZWJkNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.xs0iaxFIXgMMG6ywEd1GYOuEKrKJvH9ZiG95wzZCcak";
 push @tab, "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddswm9b-65b1eb6c-9821-44ec-a2fc-4f402eae590d.jpg/v1/fill/w_1280,h_859,q_75,strp/philae_21_03_2020_by_archiwyzard_ddswm9b-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODU5IiwicGF0aCI6IlwvZlwvNTQ4NTEyMjUtMTNlZC00OTk5LWJlMjgtODgzZTE0M2U0NjFjXC9kZHN3bTliLTY1YjFlYjZjLTk4MjEtNDRlYy1hMmZjLTRmNDAyZWFlNTkwZC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.eiM5xs4QufTVncOuLNBj6SgBV7nLziyqPF_UoQMLZRA";
 push @tab, "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddstyp0-7618edb5-dad6-4a7f-850b-13a068e5650a.jpg/v1/fill/w_1280,h_1937,q_75,strp/eglise_montfort_l_amaury_by_archiwyzard_ddstyp0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkzNyIsInBhdGgiOiJcL2ZcLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGRzdHlwMC03NjE4ZWRiNS1kYWQ2LTRhN2YtODUwYi0xM2EwNjhlNTY1MGEuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.TQ2SqUoZdwLwWyE-61AiIsUB3eXEa9nVAVmw30EO7sU";
 push @tab, "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddsdy4v-6b644944-35c4-4fe7-9792-d89c9dec6b72.jpg/v1/fill/w_1066,h_749,q_70,strp/tit_on_eletrical_cable_by_archiwyzard_ddsdy4v-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjc3MCIsInBhdGgiOiJcL2ZcLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGRzZHk0di02YjY0NDk0NC0zNWM0LTRmZTctOTc5Mi1kODljOWRlYzZiNzIuanBnIiwid2lkdGgiOiI8PTM5NDEifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.qMEOAp_5f3C-LexBmnVQmIxJC6gwJCogSwKyyXMWP80";
@@ -41,33 +43,36 @@ push @tab, "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-1
 
 my @desc = ();
 ### Add new desc at the beginning
+# Description shall not be the same ! Used for the name of the sheet ! 
+push @desc, "Cariatides Aquarelle Dessin Drawing Grèce";
+push @desc, "Temple Hephaistos Grèce Athens Aquarelle Drawing Dessin";
 push @desc, "Temple Philae Grece";
 push @desc, "Church Montfort L'Amaury";
-push @desc, "tit aquarelle";
-push @desc, "Tit painting aquarelle";
-push @desc, "Bird ink quarelle";
+push @desc, "Tit painting aquarelle 1";
+push @desc, "Tit painting aquarelle 2";
+push @desc, "Bird ink aquarelle";
 push @desc, "temple japanese aquarelle ink";
 push @desc, "Blue tits nature";
 push @desc, "Bird japanese ink";
-push @desc, "Tit on a tree branch, painted by ALexandre Proux";
-push @desc, "Aerobatics of a swallow, painted by Alexandre Proux";
-push @desc, "Bird and glycine inspired by japanese prints, painted by Alexandre Proux";
-push @desc, "Sparrow landing on a tree branch, watercolor and ink painted by Alexandre Proux";
-push @desc, "A king fisher painted with watercolor and ink inspired by japanese prints, painted by Alexandre Proux";
-push @desc, "Watercolor and ink, a bird inspired by hokusai, painted by Alexandre Proux";
-push @desc, "Watercolor painting of two sparrows eatings fruits, painted by Alexandre Proux";
-push @desc, "Koi, watercolor, black ink, painted by Alexandre Proux";
-push @desc, "Fish like morukuni, painted with chinese ink by Alexandre Proux";
-push @desc, "Bird inspired by Morukuni, ink and watercolor, painted by Alexandre Proux";
-push @desc, "Bird and flowers inspired by Hokusai, Gansai Tambi watercolor and waterproof ink, painted by Alexandre Proux";
-push @desc, "Sparrow and tree flowers inspired by Hokusai, Gansai Tambi watercolor and waterproof ink, painted by Alexandre Proux";
-push @desc, "Sparrow on a tree branch, inspired by Hokusai and Hiroshige, painted by Alexandre Proux";
-push @desc, "Swirls in ocean inspired by horushige Naruto swirl, painted by Alexandre Proux";
-push @desc, "2 sparrows on a tree branch painted with sennelier watercolor by Alexandre Proux";
-push @desc, "Cherry Blossom tree branch, Schmincke watercolor, painted by Alexandre Proux";
-push @desc, "King Fisher, by Alexandre Proux";
-push @desc, "Proud little tits";
-push @desc, "Proud little tits";
+push @desc, "Tit on a tree branch painted by ALexandre Proux";
+push @desc, "Aerobatics of a swallow";
+push @desc, "Bird and glycine inspired by japanese prints painted";
+push @desc, "Sparrow landing on a tree branch watercolor and ink";
+push @desc, "A king fisher painted with watercolor and ink inspired by japanese prints";
+push @desc, "Watercolor and ink a bird inspired by hokusai";
+push @desc, "Watercolor painting of two sparrows eatings fruits";
+push @desc, "Koi watercolor black ink";
+push @desc, "Fish like morukuni painted with chinese ink";
+push @desc, "Bird inspired by Morukuni ink and watercolor";
+push @desc, "Bird and flowers inspired by Hokusai Gansai Tambi watercolor and waterproof ink";
+push @desc, "Sparrow and tree flowers inspired by Hokusai Gansai Tambi watercolor and waterproof ink";
+push @desc, "Sparrow on a tree branch inspired by Hokusai and Hiroshige";
+push @desc, "Swirls in ocean inspired by horushige Naruto swirl";
+push @desc, "2 sparrows on a tree branch painted with sennelier watercolor";
+push @desc, "Cherry Blossom tree branch Schmincke watercolor";
+push @desc, "King Fisher";
+push @desc, "Proud little tits 1";
+push @desc, "Proud little tits 2";
 push @desc, "Sumi e cherry blossom";
 push @desc, "Cherry Blossom and swallow";
 push @desc, "Sumi e landscape";
@@ -275,7 +280,7 @@ src=\"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-49
     <header class=\"ScriptHeader\">
             <div class=\"col-rt-12\">
                     <div class=\"rt-heading\">
-                    <h1>Bee Abeille Prunus Alpes Alps</h1>
+                    <h1>$desc[$index]</h1>
                 </div>
             </div>
     </header>
@@ -309,12 +314,8 @@ sub createPic
     print FILE "    <div class=\"gallery\">\n";
     for my $i (0..scalar(@tab)-1)
     {
-        my $name = $i;
-        if ($tab[$i] =~ /\/([\w\_\d]+_by_archiwyzard)/i)
-        {
-            $name = $1;
-            $name .= "_".$i;    
-        }
+        my $name = $desc[$i];
+        $name =~ s/\s/\_/g;
         print FILE "         <label class=\"gallery__item\" for=\"".$i."\">\n"; 
         print FILE "             <a href=\"/sheet_$name\" target=\"_blank\">\n";
         print FILE "             <img class=\"cover\" height=100% width=100% min-height=\"50px\" src=\"".$tab[$i]."\" alt=\"".$desc[$i]."\"></a>\n";

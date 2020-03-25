@@ -199,6 +199,7 @@ print FILE "* {
   cursor: pointer;
   border-radius: 5px;
   grid-row: span 1;
+  
   grid-column: span 1;
   transition: -webkit-transform 0.1s ease-in-out;
   transition: transform 0.1s ease-in-out;
@@ -324,7 +325,7 @@ src=\"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-49
     <header class=\"ScriptHeader\">
             <div class=\"col-rt-12\">
                     <div class=\"rt-heading\">
-                    <h1>Bee Abeille Prunus Alpes Alps</h1>
+                    <h1>$desc[$index]</h1>
                 </div>
             </div>
     </header>

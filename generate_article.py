@@ -232,3 +232,9 @@ for ligne in template :
    review_html.write(ligne)#ecriture des lignes du templates
 review_html.close()	
 template.close()
+
+
+os.system('rm templates/sheet_*');
+os.system('perl static/css/layouts/autogenerate.pl');
+os.system('perl static/css/layouts/autogenerate_peinture.pl');
+
