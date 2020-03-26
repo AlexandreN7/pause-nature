@@ -1,0 +1,101 @@
+<!--start_head-->
+<meta name="description" content="Le papier mouillé ça gondole ! Dans cet article je montre comment tendre du papier pour la pratique de l'aquarelle">
+<title>Tendre le papier aquarelle</title>
+<!--end_head-->
+
+<!--start_content-->
+                       <div class="post">
+                            <header class="post-header">
+                                <img width="60" height="60" alt="Alexandre Proux avatar" class="post-avatar"
+
+src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e14
+3e461c/dcgwo6z-cb07072d-1c76-450a-887d-a42787e20cd6.jpg/v1/fill/w_894,h_894,q_70,strp/daily_d
+rawing_2___11_07_2018_by_archiwyzard_dcgwo6z-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1Ni
+J9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZT
+BkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2Z
+cLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGNnd282ei1jYjA3MDcyZC0xYzc2LTQ1MGEtODg3
+ZC1hNDI3ODdlMjBjZDYuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3Blc
+mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
+                                <h1>Tutorial aquarelle : tendre le papier</h1>
+                                <p class="post-meta">
+                                Date : 26/03/2020 by <class="post-author">Alexandre Proux</a> under <a class="post-category post-category-design">TUTORIAL</a>
+                                </p>
+                            </header>
+                            <div class="post-description">
+
+
+
+<h2>Pourquoi tendre le papier ?</h2>
+<p>Le papier mouillé gondole ! C'est une plaie pour l'aquarelliste. Dans cet article, je vous montre comment je tend mes feuilles de papier pour contourner ce problème.</p>
+
+<div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
+<img width=100% height=100%
+src="../../static/img/revue_tendre_le_papier/tendre_le_papier_utilisation.jpg"
+alt="photo d'une aquarelle sur papier tendu"></a>
+</div>
+
+<!-- end_header -->
+<p>Avant tout travail humide, le papier aquarelle doit &ecirc;tre tendu et maintenu sinon il gondole et nuira &agrave; la peinture. Un moyen simple et efficace d'y parvenir et de tendre le papier. Le mat&eacute;riel requis est le suivant :</p>
+<ul>
+<li>Une planche en bois</li>
+<li>Du scotch / kraft gomm&eacute;</li>
+<li>Une feuille de papier aquarelle</li>
+<li>Bonus, du papier adh&eacute;sif de masquage</li>
+</ul>
+
+<div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
+<img width=100% height=100%
+src="../../static/img/revue_tendre_le_papier/tendre_le_papier_presentation_materiel.jpg"
+alt="presentation du materiel necessaire pour tendre le papier pour l'aquarelle"></a>
+</div>
+<p>La planche utilis&eacute;e doit &ecirc;tre assez &eacute;paisse et ses dimensions doivent &ecirc;tre telles que la distance entre les bords du papier et les bords de la planche soit suffisant pour mettre le scotch gomm&eacute;.</p>
+<h2>Comment tendre le papier ?</h2>
+<p>&nbsp;La m&eacute;thode pour tendre le papier n'est pas compliqu&eacute; mais necessite un peu de pratique et des essais malheureux.</p>
+<p>Il faut commencer par mouiller abondamment la feuille de papier aquarelle, personnellement je la fait directement tremper dans un lavabo. Si le papier utilis&eacute; poss&egrave;de un recto et un verso, il est imp&eacute;ratif de marquer le recto du verso de la feuille, afin de coller verso de la feuille sur la planche ... Dans mon cas, j'utilise du papier Arches grain fin 300g/m2 qui ne poss&egrave;de pas de distinction sensible entre son recto et son verso.</p>
+<p>Lorsque la feuille est bien humect&eacute;e, c'est a dire quand l'eau a p&eacute;n&eacute;tr&eacute; l'&eacute;paisseur du papier, on proc&egrave;de a un premier sechage sommaire. Pour se faire, le papier doit &ecirc;tre &eacute;gout&eacute; quelques minutes afin d'enlever le surplus d'eau. Le papier ainsi &eacute;gout&eacute; peut &ecirc;tre pos&eacute; bien &agrave; plat sur la planche. Il va sans dire que la planche doit &ecirc;tre bien propre pour ne pas salir le papier... Une fois la feuille pos&eacute;e, on s'assure qu'elle est bien pos&eacute;e d'&eacute;querre, puis on commence &agrave; humidifier avec l'aide d'un pinceau les bandes de scotch gomm&eacute;.</p>
+
+
+<div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
+<img width=100% height=100%
+src="../../static/img/revue_tendre_le_papier/tendre_le_papier_encours.jpg"
+alt="demonstration de la tension du papier"></a>
+</div>
+
+
+<div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
+<img width=100% height=100%
+src="../../static/img/revue_tendre_le_papier/tendre_le_papier_encours2.jpg"
+alt="demonstration de la tension du papier 4 bords collés"></a>
+</div>
+
+
+<p>Il faut appliqu&eacute; le scotch selon les bords oppos&eacute;s du papier. Une fois le scotch d&eacute;pos&eacute;, il faut laisser s&eacute;cher entierement le papier avant de faire quoi que se soit. En effet le crayon ne fonctionnerait pas bien et pourrait marquer trop profond&eacute;ment le papier. Il est conseill&eacute; de laisser s&eacute;cher le papier horizontalement, &agrave; l'ombre et &eacute;loign&eacute; d'une source de chaleur. Le soleil ou un radiateur pourrait risquer de faire d&eacute;coller les bords ou d&eacute;chirer la feuille. En prenant les pr&eacute;cautions indiqu&eacute;es, la feuille sera bien coll&eacute; et tendu.&nbsp;</p>
+<p>Une fois la peinture terminer, il est vain d'essayer de decoller le scotch gomm&eacute;, il est plus facile de d&eacute;couper la feuille avec une r&egrave;gle plate et un canif.</p>
+<p><strong>&nbsp;</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            </div>
+                        </section>
+<!--end_content-->

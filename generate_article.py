@@ -19,6 +19,7 @@ article_list_en = [
 ]
 
 article_list_fr = [
+"revue_tendre_le_papier",
 "revue_ponsonnas",
 "revue_rando_montfort",
 "revue_kuretake_gansai_tambi",
@@ -35,7 +36,7 @@ for article in article_list_en :
    file_html=open("templates/en/"+article+".html","w")
    print("Generation article :", article)
    #lecture du template
-	
+
    #Generation des articles en anglais
    for ligne in template :
       file_article = open("reviews/en/"+article+".txt", "r")
@@ -54,7 +55,7 @@ for article in article_list_en :
          file_html.write('"articleSection" : "review"')
          file_html.write('}')
          file_html.write('</script>')
-   
+
          write = 0
          for ligne_article in file_article :
             if "start_head" in ligne_article :
@@ -66,17 +67,17 @@ for article in article_list_en :
                print(ligne_article)
                file_html.write(ligne_article)#ecriture de l'article
 
-            
+
       if "content_beginning" in ligne : #insertion de l'article
          file_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
          file_html.write('<div>')
-         
+
          for ligne_article in file_article :
             file_html.write(ligne_article)#ecriture de l'article
       file_article.close()
-			
-      file_html.write(ligne)#ecriture des lignes du templates	
-   file_html.close()	
+
+      file_html.write(ligne)#ecriture des lignes du templates
+   file_html.close()
    template.close()
 
 #generation des articles francais
@@ -85,7 +86,7 @@ for article in article_list_fr :
    template = open("templates/template.html", "r")
    file_html=open("templates/fr/"+article+".html","w")
    print("Generation article :", article)
-	
+
    #Generation des articles en anglais
    for ligne in template :
       file_article = open("reviews/fr/"+article+".txt", "r")
@@ -104,7 +105,7 @@ for article in article_list_fr :
          file_html.write('"articleSection" : "review"')
          file_html.write('}')
          file_html.write('</script>')
-   
+
          write = 0
          for ligne_article in file_article :
             if "start_head" in ligne_article :
@@ -116,20 +117,20 @@ for article in article_list_fr :
                print(ligne_article)
                file_html.write(ligne_article)#ecriture de l'article
 
-            
+
       if "content_beginning" in ligne : #insertion de l'article
          file_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
          file_html.write('<div>')
-         
+
          for ligne_article in file_article :
             file_html.write(ligne_article)#ecriture de l'article
       file_article.close()
-			
-      file_html.write(ligne)#ecriture des lignes du templates	
-   file_html.close()	
+
+      file_html.write(ligne)#ecriture des lignes du templates
+   file_html.close()
    template.close()
-   
-   
+
+
 
 
 #generation de l'index EN
@@ -145,7 +146,7 @@ for ligne in template :
       index_html.write('<title>Pause nature - The website dedicated to paint and nature</title>')#du titre
       index_html.write('\n')
       index_html.write('<link rel="alternate" hreflang="en" href="www.pause-nature.fr">')
-               
+
    if "content_beginning" in ligne : #debut index
       index_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
       for article in article_list_en :
@@ -157,7 +158,7 @@ for ligne in template :
             if "end_head" in ligne_article :
                write = 1
             if write == 1 :
-            
+
                 if "end_header" in ligne_article :
                    index_html.write('<p>...</p>')
                    index_html.write('</div>')
@@ -168,7 +169,7 @@ for ligne in template :
          index_html.write('</a>')
 
    index_html.write(ligne)#ecriture des lignes du templates
-index_html.close()	
+index_html.close()
 template.close()
 
 #generation de l'index FR
@@ -184,7 +185,7 @@ for ligne in template :
       index_html.write('<title>Pause nature - The website dedicated to paint and nature</title>')#du titre
       index_html.write('\n')
       index_html.write('<link rel="alternate" hreflang="fr" href="www.pause-nature.fr">')
-               
+
    if "content_beginning" in ligne : #debut index
       index_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
       for article in article_list_fr :
@@ -196,7 +197,7 @@ for ligne in template :
             if "end_head" in ligne_article :
                write = 1
             if write == 1 :
-            
+
                 if "end_header" in ligne_article :
                    index_html.write('<p>...</p>')
                    index_html.write('</div>')
@@ -207,7 +208,7 @@ for ligne in template :
          index_html.write('</a>')
 
    index_html.write(ligne)#ecriture des lignes du templates
-index_html.close()	
+index_html.close()
 template.close()
 
 #generation de la table des article
@@ -221,7 +222,7 @@ for ligne in template :
       review_html.write('<meta name="description" content="Summary of reviews on the theme of art, watercolor and painting materials.">  ')#du titre
       review_html.write('<title>List of review</title>')#du titre
       review_html.write('<link rel="alternate" hreflang="en" href="http://www.pause-nature.fr/reviews">')
-               
+
    if "content_beginning" in ligne : #debut index
       review_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
       for article in article_list_en :
@@ -230,7 +231,7 @@ for ligne in template :
          review_html.write('</a>')
 
    review_html.write(ligne)#ecriture des lignes du templates
-review_html.close()	
+review_html.close()
 template.close()
 
 
