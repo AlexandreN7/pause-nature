@@ -22,16 +22,14 @@ def home():
     return render_template("fr/index.html")
     
     
-    
-
-@app.route("/en/review/review_<name>")
+@app.route("/en/review/review-<name>")
 def review(name):
-    htmlname = "en/review_"+name+".html"
+    htmlname = "en/review-"+name+".html"
     return render_template(htmlname)
     
-@app.route("/fr/revue/revue_<name>")
+@app.route("/fr/revue/revue-<name>")
 def revue(name):
-    htmlname = "fr/revue_"+name+".html"
+    htmlname = "fr/revue-"+name+".html"
     return render_template(htmlname)
     
 @app.route("/reviews")
@@ -59,9 +57,18 @@ def pic_gallery(name):
     html_name = "sheet_"+name+".html"
     return render_template(html_name)
     
-@app.route("/sitemap")
+@app.route("/sitemap.xml")
 def sitemap():
     return render_template("sitemap.xml")
+    
+@app.route("/robots.txt")
+def robots():
+    return render_template("robots.txt")
+    
+@app.errorhandler(404)
+def page_not_found(e):
+    # note that we set the 404 status explicitly
+    return render_template('404.html'), 404    
 
 if __name__ == "__main__" :
     app.run()

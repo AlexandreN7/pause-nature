@@ -7,25 +7,25 @@ import os
 #site_configuration = open("site_conf.txt","r")
 
 article_list_en = [
-"review_manet_ukiyoe",
-"review_fountain_pen_lamy2000",
-"review_versatile_palette",
-"review_morikuni",
-"review_hahnemuhle_watercolor_book",
-"review_kuretake_gansai_tambi",
-"review_hiroshige",
-"review_black_ink",
-"review_portable_painter"
+"review-manet-ukiyoe",
+"review-fountain-pen-lamy2000",
+"review-versatile-palette",
+"review-morikuni",
+"review-hahnemuhle-watercolor-book",
+"review-kuretake-gansai-tambi",
+"review-hiroshige",
+"review-black-ink",
+"review-portable-painter"
 ]
 
 article_list_fr = [
-"revue_tendre_le_papier",
-"revue_ponsonnas",
-"revue_rando_montfort",
-"revue_kuretake_gansai_tambi",
-"revue_fountain_pen_lamy2000",
-"revue_portable_painter",
-"revue_black_ink"
+"revue-tendre-le-papier",
+"revue-ponsonnas",
+"revue-rando-montfort",
+"revue-kuretake-gansai-tambi",
+"revue-fountain-pen-lamy2000",
+"revue-portable-painter",
+"revue-black-ink"
 ]
 
 
