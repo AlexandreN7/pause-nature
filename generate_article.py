@@ -32,7 +32,7 @@ article_list_fr = [
 #generation des articles anglais
 for article in article_list_en :
    #Creation du fichier html
-   template = open("templates/template.html", "r")
+   template = open("templates/template_en.html", "r")
    file_html=open("templates/en/"+article+".html","w")
    print("Generation article :", article)
    #lecture du template
@@ -83,7 +83,7 @@ for article in article_list_en :
 #generation des articles francais
 for article in article_list_fr :
    #Creation du fichier html
-   template = open("templates/template.html", "r")
+   template = open("templates/template_fr.html", "r")
    file_html=open("templates/fr/"+article+".html","w")
    print("Generation article :", article)
 
@@ -136,7 +136,7 @@ for article in article_list_fr :
 #generation de l'index EN
 index_html=open("templates/en/index.html","w")
 print("Generation de l'index :")
-template = open("templates/template.html", "r")
+template = open("templates/template_en.html", "r")
 for ligne in template :
    if "</head>" in ligne : #insertion du <head>
       index_html.write('<meta name="p:domain_verify" content="cea44afbf402c3b5741620e0e26796e7"/>')
@@ -175,7 +175,7 @@ template.close()
 #generation de l'index FR
 index_html=open("templates/fr/index.html","w")
 print("Generation de l'index :")
-template = open("templates/template.html", "r")
+template = open("templates/template_fr.html", "r")
 for ligne in template :
    if "</head>" in ligne : #insertion du <head>
       index_html.write('<meta name="p:domain_verify" content="cea44afbf402c3b5741620e0e26796e7"/>')
@@ -216,7 +216,7 @@ template.close()
 #generation de de l'onglet reviews EN
 review_html=open("templates/reviews.html","w")
 print("Generation de l'index :")
-template = open("templates/template.html", "r")
+template = open("templates/template_en.html", "r")
 for ligne in template :
    if "</head>" in ligne : #insertion du <head>
       review_html.write('<meta name="description" content="Summary of reviews on the theme of art, watercolor and painting materials.">  ')#du titre
