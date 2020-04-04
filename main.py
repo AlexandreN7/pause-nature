@@ -36,10 +36,6 @@ def revue(name):
 def reviews():
     return render_template("reviews.html")
 
-@app.route("/ongoing")
-def ongoing():
-    return render_template("ongoing.html")
-
 @app.route("/about")
 def about():
     return render_template("about.html")
