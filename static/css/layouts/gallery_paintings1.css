@@ -11,7 +11,7 @@
     justify-content: center;
     grid-template-columns: repeat(4, 300px);
     grid-gap: 20px;
-    grid-template-rows: repeat(11, 300px);
+    grid-template-rows: repeat(13, 300px);
 }
 
 @media (max-width: 768px) {
@@ -38,6 +38,142 @@
 
 .gallery__select {
   display: none;
+}
+.gallery__select:nth-of-type(48):checked ~ .gallery .gallery__item:nth-of-type(48) {
+  cursor: default;
+  display: grid;
+  align-items: center;
+  grid-row: 1/-1;
+  grid-column: 3;
+}
+.gallery__select:nth-of-type(48):checked ~ .gallery .gallery__item:nth-of-type(48):hover {
+  -webkit-transform: none;
+          transform: none;
+}
+@media (max-width: 768px) {
+  .gallery__select:nth-of-type(1):checked ~ .gallery .gallery__item:nth-of-type(1) {
+    grid-row: 1/-3;
+    grid-column: 1/-1;
+  }
+}
+.gallery__select:nth-of-type(47):checked ~ .gallery .gallery__item:nth-of-type(47) {
+  cursor: default;
+  display: grid;
+  align-items: center;
+  grid-row: 1/-1;
+  grid-column: 3;
+}
+.gallery__select:nth-of-type(47):checked ~ .gallery .gallery__item:nth-of-type(47):hover {
+  -webkit-transform: none;
+          transform: none;
+}
+@media (max-width: 768px) {
+  .gallery__select:nth-of-type(1):checked ~ .gallery .gallery__item:nth-of-type(1) {
+    grid-row: 1/-3;
+    grid-column: 1/-1;
+  }
+}
+.gallery__select:nth-of-type(46):checked ~ .gallery .gallery__item:nth-of-type(46) {
+  cursor: default;
+  display: grid;
+  align-items: center;
+  grid-row: 1/-1;
+  grid-column: 3;
+}
+.gallery__select:nth-of-type(46):checked ~ .gallery .gallery__item:nth-of-type(46):hover {
+  -webkit-transform: none;
+          transform: none;
+}
+@media (max-width: 768px) {
+  .gallery__select:nth-of-type(1):checked ~ .gallery .gallery__item:nth-of-type(1) {
+    grid-row: 1/-3;
+    grid-column: 1/-1;
+  }
+}
+.gallery__select:nth-of-type(45):checked ~ .gallery .gallery__item:nth-of-type(45) {
+  cursor: default;
+  display: grid;
+  align-items: center;
+  grid-row: 1/-1;
+  grid-column: 3;
+}
+.gallery__select:nth-of-type(45):checked ~ .gallery .gallery__item:nth-of-type(45):hover {
+  -webkit-transform: none;
+          transform: none;
+}
+@media (max-width: 768px) {
+  .gallery__select:nth-of-type(1):checked ~ .gallery .gallery__item:nth-of-type(1) {
+    grid-row: 1/-3;
+    grid-column: 1/-1;
+  }
+}
+.gallery__select:nth-of-type(44):checked ~ .gallery .gallery__item:nth-of-type(44) {
+  cursor: default;
+  display: grid;
+  align-items: center;
+  grid-row: 1/-1;
+  grid-column: 3;
+}
+.gallery__select:nth-of-type(44):checked ~ .gallery .gallery__item:nth-of-type(44):hover {
+  -webkit-transform: none;
+          transform: none;
+}
+@media (max-width: 768px) {
+  .gallery__select:nth-of-type(1):checked ~ .gallery .gallery__item:nth-of-type(1) {
+    grid-row: 1/-3;
+    grid-column: 1/-1;
+  }
+}
+.gallery__select:nth-of-type(43):checked ~ .gallery .gallery__item:nth-of-type(43) {
+  cursor: default;
+  display: grid;
+  align-items: center;
+  grid-row: 1/-1;
+  grid-column: 3;
+}
+.gallery__select:nth-of-type(43):checked ~ .gallery .gallery__item:nth-of-type(43):hover {
+  -webkit-transform: none;
+          transform: none;
+}
+@media (max-width: 768px) {
+  .gallery__select:nth-of-type(1):checked ~ .gallery .gallery__item:nth-of-type(1) {
+    grid-row: 1/-3;
+    grid-column: 1/-1;
+  }
+}
+.gallery__select:nth-of-type(42):checked ~ .gallery .gallery__item:nth-of-type(42) {
+  cursor: default;
+  display: grid;
+  align-items: center;
+  grid-row: 1/-1;
+  grid-column: 3;
+}
+.gallery__select:nth-of-type(42):checked ~ .gallery .gallery__item:nth-of-type(42):hover {
+  -webkit-transform: none;
+          transform: none;
+}
+@media (max-width: 768px) {
+  .gallery__select:nth-of-type(1):checked ~ .gallery .gallery__item:nth-of-type(1) {
+    grid-row: 1/-3;
+    grid-column: 1/-1;
+  }
+}
+.gallery__select:nth-of-type(41):checked ~ .gallery .gallery__item:nth-of-type(41) {
+  cursor: default;
+  display: grid;
+  align-items: center;
+  grid-row: 1/-1;
+  grid-column: 3;
+}
+.gallery__select:nth-of-type(41):checked ~ .gallery .gallery__item:nth-of-type(41):hover {
+  -webkit-transform: none;
+          transform: none;
+}
+@media (max-width: 768px) {
+  .gallery__select:nth-of-type(1):checked ~ .gallery .gallery__item:nth-of-type(1) {
+    grid-row: 1/-3;
+    grid-column: 1/-1;
+  }
 }
 .gallery__select:nth-of-type(40):checked ~ .gallery .gallery__item:nth-of-type(40) {
   cursor: default;

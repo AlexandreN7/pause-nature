@@ -19,14 +19,14 @@ my %tab = (
                  },
           '3' => {
                    'alt' => 'Cariatides Erechtheion',
-                   'titre' => 'Cariatides de l`Erechtheion - Athène',
-                   'sous-titre' => 'Erechtheion Cariatides - Athens',
+                   'titre' => 'Cariatides de l`Erechtheion Athène',
+                   'sous-titre' => 'Erechtheion Cariatides Athens',
                    'link' => 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddijmv1-138b0277-e718-43fe-b768-71100dfc5e58.jpg/v1/fill/w_1128,h_708,q_70,strp/cariatides_by_archiwyzard_ddijmv1-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjQ3OCIsInBhdGgiOiJcL2ZcLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGRpam12MS0xMzhiMDI3Ny1lNzE4LTQzZmUtYjc2OC03MTEwMGRmYzVlNTguanBnIiwid2lkdGgiOiI8PTM5NDcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.V6wMRTsSATWc8vCCjFWHIglOi4B36-uRw9ihgKExAb4'
                  },        
           '4' => {
                    'alt' => 'Wind tower Athens',
-                   'titre' => 'Tour des Vents - Athène',
-                   'sous-titre' => 'Wind tower - Athens',
+                   'titre' => 'Tour des Vents Athène',
+                   'sous-titre' => 'Wind tower Athens',
                    'link' => 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddilrik-edb3426e-697c-4ba2-a421-f08b0ded04a5.jpg/v1/fill/w_808,h_989,q_70,strp/wind_tower_athens_by_archiwyzard_ddilrik-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzExNCIsInBhdGgiOiJcL2ZcLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGRpbHJpay1lZGIzNDI2ZS02OTdjLTRiYTItYTQyMS1mMDhiMGRlZDA0YTUuanBnIiwid2lkdGgiOiI8PTI1NDIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.jce2sF16lmEKwQQwSvHQhDVNVGkALyP7XKsM1KmXvLI'
                  },
           '5' => {
@@ -217,8 +217,8 @@ my %tab = (
                   },
           '36' => {
                     'alt' => 'Church Montfort L\'Amaury',
-                    'titre' => 'Eglise de Montfort L\'Amaury (Yvelines)',
-                    'sous-titre' => 'Montfort l\'Amaury Church (Yvelines - France)',
+                    'titre' => 'Eglise de Montfort L_Amaury Yvelines',
+                    'sous-titre' => 'Montfort l_Amaury Church Yvelines  France',
                     'link' => 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddstyp0-7618edb5-dad6-4a7f-850b-13a068e5650a.jpg/v1/fill/w_1280,h_1937,q_75,strp/eglise_montfort_l_amaury_by_archiwyzard_ddstyp0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTkzNyIsInBhdGgiOiJcL2ZcLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGRzdHlwMC03NjE4ZWRiNS1kYWQ2LTRhN2YtODUwYi0xM2EwNjhlNTY1MGEuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.TQ2SqUoZdwLwWyE-61AiIsUB3eXEa9nVAVmw30EO7sU'
                   },
           '37' => {
@@ -239,6 +239,54 @@ my %tab = (
                     'titre' => 'Temple d\'Hephaistos à Athènes',
                     'sous-titre' => 'Hephaistos temple in Athens',
                   },
+          '40' => { 
+                    'alt' => 'Eglise Orthodox Church Drawing Athens',
+                    'link' => 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddtf9sq-d81e4ecb-0678-49ae-a984-c3a0d47e5305.jpg/v1/fill/w_1280,h_809,q_75,strp/kemarikos_by_archiwyzard_ddtf9sq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODA5IiwicGF0aCI6IlwvZlwvNTQ4NTEyMjUtMTNlZC00OTk5LWJlMjgtODgzZTE0M2U0NjFjXC9kZHRmOXNxLWQ4MWU0ZWNiLTA2NzgtNDlhZS1hOTg0LWMzYTBkNDdlNTMwNS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.te8vCdORvQA5Q_Wqvz7Db4yjZ_Ikdc1Bh3ad3SLEZoI',
+                    'titre' => 'Eglise Orthodoxe à Athènes',
+                    'sous-titre' => 'Orthodox church in Athens',  
+                  },
+          '41' => {
+                   'alt' => 'Flower Tulip Tulipe Fleur Dessin Drawing',
+                   'link' => 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddtok8d-4e7b86ee-754c-4700-a0ba-4246838c828f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGR0b2s4ZC00ZTdiODZlZS03NTRjLTQ3MDAtYTBiYS00MjQ2ODM4YzgyOGYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PGat85Fitr0ar9kYCQSrQv743UwBQHoABfpU40wFHV0',
+                   'titre' => 'Etude d\'une tulipe',
+                   'sous-titre' => 'Tulip study',
+                  },
+          '42' => {
+                    'alt' => 'Bird Oiseau Dessin Drawing',
+                    'link' => 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddtrnzz-1bbf1f80-482b-4bea-b541-2ea0fc5abb25.jpg/v1/fill/w_1280,h_839,q_75,strp/daily_drawing_01_04_2020_by_archiwyzard_ddtrnzz-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODM5IiwicGF0aCI6IlwvZlwvNTQ4NTEyMjUtMTNlZC00OTk5LWJlMjgtODgzZTE0M2U0NjFjXC9kZHRybnp6LTFiYmYxZjgwLTQ4MmItNGJlYS1iNTQxLTJlYTBmYzVhYmIyNS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.cEydkfaleylwBzyx2We5QbC2WBaGn4Hc-TLEWmome-M',
+                    'titre' => 'Dessin d\'un oiseau',
+                    'sous-titre' => 'Bird drawing',
+                  },
+        '43' => {
+                    'alt' => 'Bird Drawing Dessin Oiseau',
+                    'link' => 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddtve61-b3bd6256-fac9-4813-a31b-18da0d569705.jpg/v1/fill/w_1600,h_1638,q_75,strp/tarier_des_prs_by_archiwyzard_ddtve61-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYzOCIsInBhdGgiOiJcL2ZcLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGR0dmU2MS1iM2JkNjI1Ni1mYWM5LTQ4MTMtYTMxYi0xOGRhMGQ1Njk3MDUuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.0hhgWZ6xEbzpgo87AGQ-sY1B1NXnksvez8vUbpUtEGQ',
+                    'titre' => 'Dessin d\'un oiseau',
+                    'sous-titre' => 'Bird drawing',
+                },
+        '44' => {
+                    'alt' => 'Plaisir Chateau Castle',
+                    'link' => 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddtxytf-d85b88d0-5fb1-43ea-9167-4750810f0f57.jpg/v1/fill/w_1280,h_974,q_75,strp/plaisir_castle__yvelines__france_by_archiwyzard_ddtxytf-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTc0IiwicGF0aCI6IlwvZlwvNTQ4NTEyMjUtMTNlZC00OTk5LWJlMjgtODgzZTE0M2U0NjFjXC9kZHR4eXRmLWQ4NWI4OGQwLTVmYjEtNDNlYS05MTY3LTQ3NTA4MTBmMGY1Ny5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.c4BDKUkWByBrC9n8CKdr4F41Jwb04C5zhqxgW17rerw',
+                    'titre' => 'Chateau de Plaisir Yvelines 78',
+                    'sous-titre' => 'Plaisir Castle Yvelines 78 France',
+                },
+        '45' => {
+                    'alt' => 'Héron Cendré Oiseau Bird Drawing Dessin Grey Heron',
+                    'link' => 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddu3nk6-b431e9e9-34a3-479a-8bae-2c1c28283f6d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGR1M25rNi1iNDMxZTllOS0zNGEzLTQ3OWEtOGJhZS0yYzFjMjgyODNmNmQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.0ILnixuNOc9RFSG6eNVGrQWs6gkbHiQvHBhsDQIsr3Y',
+                    'titre' => 'Héron Cendré',
+                    'sous-titre' => 'Grey Heron',
+                },
+        '46' => {
+                    'alt' => 'Two Little Birds Drawing Deux Oiseaux Dessin Moineaux Sparrows',
+                    'link' => 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddu6s9b-394cfa8a-e371-405e-9e10-1471af494747.jpg/v1/fill/w_1600,h_1375,q_75,strp/two_friends_06_04_2020_by_archiwyzard_ddu6s9b-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM3NSIsInBhdGgiOiJcL2ZcLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGR1NnM5Yi0zOTRjZmE4YS1lMzcxLTQwNWUtOWUxMC0xNDcxYWY0OTQ3NDcuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.LvRaXo4vj1nMOzebdOvngsJG4L7x0kQDU1m1l3sfa-4',
+                    'titre' => 'Deux petits moineaux',
+                    'sous-titre' => 'Two little sparrows',
+                },
+        '47' => {
+                    'alt' => 'Versailles Hameau Chateau Reine Queen Castle',
+                    'link' => 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/dduoclr-5fc338cc-4ca7-48fa-acfe-1cbff3a7ed34.jpg/v1/fill/w_1280,h_998,q_75,strp/le_hameau_de_la_reine__versailles_by_archiwyzard_dduoclr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTk4IiwicGF0aCI6IlwvZlwvNTQ4NTEyMjUtMTNlZC00OTk5LWJlMjgtODgzZTE0M2U0NjFjXC9kZHVvY2xyLTVmYzMzOGNjLTRjYTctNDhmYS1hY2ZlLTFjYmZmM2E3ZWQzNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.zw-YH1iLTd04JNeEYLYIHtPBvlYT1UhxRaMYua4GSKI',
+                    'titre' => 'Moulin de la Reine, Versailles Yvelines 78',
+                    'sous-titre' => 'Queen mill in Versailles Yvelines 78 France',
+                },
                   ### Add new here. Hash is parsed from bottom to top. 
         );
 
@@ -369,7 +417,7 @@ close(FILE);
 sub autoHTML
 {
     my ($name, $index) = @_;
-    open (FILE_sheet, ">$templatePath/sheet_$name.html");
+    open (FILE_sheet, ">$templatePath/sheet-$name.html");
         print FILE_sheet "<!doctype html>
 <html lang=\"en\">
     <head>
@@ -473,10 +521,10 @@ sub createPic
     print FILE "    <div class=\"gallery\">\n";
     foreach my $i (sort {$b <=> $a} keys %tab)
     {
-        my $name = $tab{$i}{"sous-titre"}."_".$i;
-        $name =~ s/\s/\_/g;
+        my $name = $tab{$i}{"sous-titre"}."-".$i;
+        $name =~ s/\s/\-/g;
         print FILE "         <label class=\"gallery__item\" for=\"".$i."\">\n"; 
-        print FILE "             <a href=\"/sheet_$name\" target=\"_blank\">\n";
+        print FILE "             <a href=\"/sheet-$name\" target=\"_blank\">\n";
         print FILE "             <img class=\"cover\" height=100% width=100% min-height=\"50px\" src=\"".$tab{$i}{link}."\" alt=\"".$tab{$i}{alt}."\"></a>\n";
         print FILE "         </label>\n";
         

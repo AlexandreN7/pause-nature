@@ -235,7 +235,7 @@ review_html.close()
 template.close()
 
 
-os.system('rm templates/sheet_*');
+os.system('rm templates/sheet-*');
 os.system('perl static/css/layouts/autogenerate.pl');
 os.system('perl static/css/layouts/autogenerate_peinture.pl');
 

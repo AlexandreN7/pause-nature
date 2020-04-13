@@ -54,9 +54,9 @@ def gallery():
 def gallery_pictures():
     return render_template("galerie_pictures.html") 
 
-@app.route("/sheet_<name>")
+@app.route("/sheet-<name>")
 def pic_gallery(name):
-    html_name = "sheet_"+name+".html"
+    html_name = "sheet-"+name+".html"
     return render_template(html_name)
     
 @app.route("/sitemap")
