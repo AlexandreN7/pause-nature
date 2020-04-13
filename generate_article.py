@@ -7,32 +7,32 @@ import os
 #site_configuration = open("site_conf.txt","r")
 
 article_list_en = [
-"review_manet_ukiyoe",
-"review_fountain_pen_lamy2000",
-"review_versatile_palette",
-"review_morikuni",
-"review_hahnemuhle_watercolor_book",
-"review_kuretake_gansai_tambi",
-"review_hiroshige",
-"review_black_ink",
-"review_portable_painter"
+"review-manet-ukiyoe",
+"review-fountain-pen-lamy2000",
+"review-versatile-palette",
+"review-morikuni",
+"review-hahnemuhle-watercolor-book",
+"review-kuretake-gansai-tambi",
+"review-hiroshige",
+"review-black-ink",
+"review-portable-painter"
 ]
 
 article_list_fr = [
-"revue_tendre_le_papier",
-"revue_ponsonnas",
-"revue_rando_montfort",
-"revue_kuretake_gansai_tambi",
-"revue_fountain_pen_lamy2000",
-"revue_portable_painter",
-"revue_black_ink"
+"revue-tendre-le-papier",
+"revue-ponsonnas",
+"revue-rando-montfort",
+"revue-kuretake-gansai-tambi",
+"revue-fountain-pen-lamy2000",
+"revue-portable-painter",
+"revue-black-ink"
 ]
 
 
 #generation des articles anglais
 for article in article_list_en :
    #Creation du fichier html
-   template = open("templates/template.html", "r")
+   template = open("templates/template_en.html", "r")
    file_html=open("templates/en/"+article+".html","w")
    print("Generation article :", article)
    #lecture du template
@@ -83,7 +83,7 @@ for article in article_list_en :
 #generation des articles francais
 for article in article_list_fr :
    #Creation du fichier html
-   template = open("templates/template.html", "r")
+   template = open("templates/template_fr.html", "r")
    file_html=open("templates/fr/"+article+".html","w")
    print("Generation article :", article)
 
@@ -136,7 +136,7 @@ for article in article_list_fr :
 #generation de l'index EN
 index_html=open("templates/en/index.html","w")
 print("Generation de l'index :")
-template = open("templates/template.html", "r")
+template = open("templates/template_en.html", "r")
 for ligne in template :
    if "</head>" in ligne : #insertion du <head>
       index_html.write('<meta name="p:domain_verify" content="cea44afbf402c3b5741620e0e26796e7"/>')
@@ -175,7 +175,7 @@ template.close()
 #generation de l'index FR
 index_html=open("templates/fr/index.html","w")
 print("Generation de l'index :")
-template = open("templates/template.html", "r")
+template = open("templates/template_fr.html", "r")
 for ligne in template :
    if "</head>" in ligne : #insertion du <head>
       index_html.write('<meta name="p:domain_verify" content="cea44afbf402c3b5741620e0e26796e7"/>')
@@ -216,7 +216,7 @@ template.close()
 #generation de de l'onglet reviews EN
 review_html=open("templates/reviews.html","w")
 print("Generation de l'index :")
-template = open("templates/template.html", "r")
+template = open("templates/template_en.html", "r")
 for ligne in template :
    if "</head>" in ligne : #insertion du <head>
       review_html.write('<meta name="description" content="Summary of reviews on the theme of art, watercolor and painting materials.">  ')#du titre
