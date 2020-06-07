@@ -19,6 +19,7 @@ article_list_en = [
 ]
 
 article_list_fr = [
+"revue-rando-beynes",
 "revue-tendre-le-papier",
 "revue-ponsonnas",
 "revue-rando-montfort",
