@@ -19,6 +19,7 @@ article_list_en = [
 ]
 
 article_list_fr = [
+"revue-tutoriel-fabrication-aquarelle",
 "revue-rando-Ambialet",
 "revue-rando-bruniquel",
 "revue-rando-beynes",
