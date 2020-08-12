@@ -20,7 +20,7 @@ ZC1hNDI3ODdlMjBjZDYuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6
 mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                                 <h1 class="post-title">Bienvenue au Lac Charlet</h1>
                                 <p class="post-meta">
-                                Date : 13/07/2020 by <class="post-author">Amandine Poterala</a> under <a class="post-category post-category-design">REVIEW</a>
+                                Date : 10/08/2020 by <class="post-author">Amandine Poterala</a> under <a class="post-category post-category-design">REVIEW</a>
                                 </p>
                             </header>
                             <div class="post-description">
@@ -28,14 +28,16 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
 
 <p>Vous êtes actuellement dans les Alpes Françaises, sur le plateau Matheysin précisément, et vous rêvez de tranquilité et de simplicité ? Alors vous êtes destiné à aller au Lac Charlet. Contrairement à son cousin, le Lac Fourchu, le Lac Charlet est un petit lac peu fréquenté par les touristes et où vous ne croiserez presque que des locaux.</p>
 
+<h3>Informations sur la randonnée:</h3>
+<li>Durée: Entre 1h et 2h</li>
+<li>Départ: <a href="https://goo.gl/maps/syDDX2fwwG1GNEb58" target=\"_blank\"><span style="font-weight: 400;">La chaud (St Honoré 1500) (Lien sur Google Maps)</span></a></li>
+<li>Difficulté : Facile. Chemins caillouteux.</li>
+
 <!-- end_header -->
 
 <h2>Le départ</h2> 
 
 <p>Le départ au lac se fait depuis le parking de La Chaud (Saint-Honoré 1500), où se trouve une station de ski désaffectée. A cause du manque de neige, celle-ci a en effet dû fermer.</p>
-
-
-<a href="https://goo.gl/maps/syDDX2fwwG1GNEb58" target=\"_blank\"><span style="font-weight: 400;">Voici le lien vers le point de départ sur Google Maps.</span></a>
 
 <p>Sur place, vous trouverez une fontaine à eau potable et fraiche, qui vous sera bien utile lors de votre retour. Le départ de la randonnée se fait par le chemin qui monte derrière la fontaine. La montée dure environ 1h30 et est simple, sécuritaire. Il est préférable d'y aller le matin pour éviter le soleil plombant de l'après-midi, car une partie de la montée et/ou de la descente se fait au soleil.</p>
 
