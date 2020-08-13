@@ -2,9 +2,14 @@
 # -*- coding : utf-8 -*-
 
 import os
-#os.chdir("C:/tests python")
+import re 
+import generate_pictures
 
 #site_configuration = open("site_conf.txt","r")
+
+os.system('rm templates/sheet-*'); # to be kept
+generate_pictures.gene_pic_gallery()
+os.system('perl static/css/layouts/autogenerate_peinture.pl'); ## TO BE REMOVED AFTER TRANSFORM TO PYTHON SCRIPT
 
 article_list_en = [
 "review-manet-ukiyoe",
@@ -240,8 +245,4 @@ for ligne in template :
 review_html.close()
 template.close()
 
-
-os.system('rm templates/sheet-*');
-os.system('perl static/css/layouts/autogenerate.pl');
-os.system('perl static/css/layouts/autogenerate_peinture.pl');
 
