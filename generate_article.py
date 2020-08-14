@@ -24,6 +24,7 @@ article_list_en = [
 ]
 
 article_list_fr = [
+"revue-rando-Prapic",
 "revue-rando-Fourchu",
 "revue-rando-Charlet",
 "revue-tutoriel-fabrication-aquarelle",
