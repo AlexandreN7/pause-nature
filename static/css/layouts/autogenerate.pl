@@ -597,7 +597,7 @@ while (!eof(FILEin))
     }
 }
 
-system("mv $templatePath/htmlfile.txt $templatePath/galerie_pictures.html");
+system("mv $templatePath/htmlfile.txt $templatePath/galerie_pictures_TEST.html");
 
 close(FILE);
 close(FILEin);
@@ -606,7 +606,7 @@ close(FILEin);
 ### auto generate CSS
 ######################################
 my $nbrLines = int(keys(%tab)/4)+1;
-open (FILE, ">$cssPath/gallery_picture1.css");
+open (FILE, ">$cssPath/gallery_picture1_TEST.css");
 print FILE "* {
   box-sizing: border-box;
   -webkit-animation: fadeIn 0.5s;
