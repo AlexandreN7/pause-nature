@@ -177,12 +177,14 @@ for ligne in template :
                    index_html.write('</section>')
                    break
                 else :
-                   index_html.write(ligne_article)
+                   new_line = ligne_article.replace("h1","h2")
+                   index_html.write(new_line)
          index_html.write('</a>')
 
    index_html.write(ligne)#ecriture des lignes du templates
 index_html.close()
 template.close()
+
 
 #generation de l'index FR
 index_html=open("templates/fr/index.html","w")
@@ -216,7 +218,8 @@ for ligne in template :
                    index_html.write('</section>')
                    break
                 else :
-                   index_html.write(ligne_article)
+                   new_line = ligne_article.replace("h1","h2")
+                   index_html.write(new_line)
          index_html.write('</a>')
 
    index_html.write(ligne)#ecriture des lignes du templates
