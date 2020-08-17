@@ -237,10 +237,19 @@ for ligne in template :
 
    if "content_beginning" in ligne : #debut index
       review_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
+
+      for article in article_list_fr :
+         review_html.write('<a href=/fr/revue/'+article+' >')
+         review_html.write('<p>'+article+'</p>')
+         review_html.write('</a>')
+      review_html.write('<br>')
+      review_html.write('<br>')
       for article in article_list_en :
          review_html.write('<a href=/en/review/'+article+' >')
          review_html.write('<p>'+article+'</p>')
          review_html.write('</a>')
+
+
 
    review_html.write(ligne)#ecriture des lignes du templates
 review_html.close()
