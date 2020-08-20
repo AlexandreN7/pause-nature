@@ -57,6 +57,10 @@ def pic_gallery(name):
 def sitemap():
     return render_template("sitemap.xml")
     
+@app.route("/ads.txt")
+def ads():
+    return render_template("/ads.txt")
+    
 @app.route("/robots.txt")
 def robots():
     return render_template("robots.txt")
