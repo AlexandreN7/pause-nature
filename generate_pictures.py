@@ -36,7 +36,7 @@ def autoHTML (name, link, alt, templatePath, pageURL):
     foFILE_sheet.write("            <div class=\"header\">\n")
     foFILE_sheet.write("\n")
     foFILE_sheet.write("                <p><center>\n")
-    foFILE_sheet.write("                    <img width=\"140\" height=\"140\" alt=\"Alexandre Proux avatar\" src=\"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54851225-13ed-4999-be28-883e143e461c/ddp24an-71c94052-a418-4980-b211-0397c9e238c7.jpg/v1/fill/w_894,h_894,q_70,strp/painted_for_a_friend_by_archiwyzard_ddp24an-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGRwMjRhbi03MWM5NDA1Mi1hNDE4LTQ5ODAtYjIxMS0wMzk3YzllMjM4YzcuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.llFxrx1UaPqLZcz3wlU3Cf-NzxRN0M3iDrbx-z0jI04\">\n")
+    foFILE_sheet.write("                    <img width=\"140\" height=\"140\" alt=\"Alexandre Proux avatar\" src=/static/img/icon.jpg>\n")
     foFILE_sheet.write("                </center></p>\n")
     foFILE_sheet.write("\n")
     foFILE_sheet.write("                <h1 class=\"brand-title\">Pause nature</h1>\n")

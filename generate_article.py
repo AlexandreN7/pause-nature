@@ -67,6 +67,7 @@ for article in article_list_en :
          file_html.write('"articleSection" : "review"')
          file_html.write('}')
          file_html.write('</script>')
+         file_html.write('link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico"')
 
          write = 0
          for ligne_article in file_article :
@@ -117,7 +118,8 @@ for article in article_list_fr :
          file_html.write('"articleSection" : "review"')
          file_html.write('}')
          file_html.write('</script>')
-
+         file_html.write('<link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico">')
+         
          write = 0
          for ligne_article in file_article :
             if "start_head" in ligne_article :
@@ -176,6 +178,7 @@ for ligne in template :
       index_html.write('<title>Pause nature - The website dedicated to paint and nature</title>')#du titre
       index_html.write('\n')
       index_html.write('<link rel="alternate" hreflang="en" href="www.pause-nature.fr">')
+      index_html.write('<link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico">')
 
    if "content_beginning" in ligne : #debut index
       index_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
@@ -217,6 +220,7 @@ for ligne in template :
       index_html.write('<title>Pause nature - The website dedicated to paint and nature</title>')#du titre
       index_html.write('\n')
       index_html.write('<link rel="alternate" hreflang="fr" href="www.pause-nature.fr">')
+      index_html.write('<link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico">')
 
    if "content_beginning" in ligne : #debut index
       index_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
@@ -255,6 +259,7 @@ for ligne in template :
       review_html.write('<meta name="description" content="Summary of reviews on the theme of art, watercolor and painting materials.">  ')#du titre
       review_html.write('<title>List of review</title>')#du titre
       review_html.write('<link rel="alternate" hreflang="en" href="http://www.pause-nature.fr/reviews">')
+      review_html.write('<link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico">')
 
    if "content_beginning" in ligne : #debut index
       review_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
