@@ -134,19 +134,25 @@ for article in article_list_fr :
          file_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
          file_html.write('<div>')
          file_html.write('\n')
-         #Generation des pubs pour google
-         file_html.write('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>' + "\n")
-         file_html.write('<ins class="adsbygoogle"'+ "\n")
-         file_html.write('style="display:block; text-align:center;"'+ "\n")
-         file_html.write('data-ad-layout="in-article"'+ "\n")
-         file_html.write('data-ad-format="fluid"'+ "\n")
-         file_html.write(' data-ad-client="ca-pub-4353004932795007"'+ "\n")
-         file_html.write('data-ad-slot="5273903670"></ins>'+ "\n")
-         file_html.write('<script>'+ "\n")
-         file_html.write('(adsbygoogle = window.adsbygoogle || []).push({});'+ "\n")
-         file_html.write('</script>'+ "\n")
          
          for ligne_article in file_article :
+         
+            if "ads_reference" in ligne_article : # insertion d'une publicité
+                print("insertion d'une pub")
+                #Generation des pubs pour google
+                file_html.write("\n")
+                file_html.write('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>' + "\n")
+                file_html.write('<ins class="adsbygoogle"'+ "\n")
+                file_html.write('style="display:block; text-align:center;"'+ "\n")
+                file_html.write('data-ad-layout="in-article"'+ "\n")
+                file_html.write('data-ad-format="fluid"'+ "\n")
+                file_html.write(' data-ad-client="ca-pub-4353004932795007"'+ "\n")
+                file_html.write('data-ad-slot="5273903670"></ins>'+ "\n")
+                file_html.write('<script>'+ "\n")
+                file_html.write('(adsbygoogle = window.adsbygoogle || []).push({});'+ "\n")
+                file_html.write('</script>'+ "\n")
+                file_html.write("\n")
+         
             file_html.write(ligne_article)#ecriture de l'article
       file_article.close()
 
