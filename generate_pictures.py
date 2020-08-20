@@ -36,7 +36,7 @@ def autoHTML (name, link, alt, templatePath, pageURL):
     foFILE_sheet.write("            <div class=\"header\">\n")
     foFILE_sheet.write("\n")
     foFILE_sheet.write("                <p><center>\n")
-    foFILE_sheet.write("                    <img width=\"140\" height=\"140\" alt=\"Alexandre Proux avatar\" src=/static/img/icon.jpg>\n")
+    foFILE_sheet.write('                    <img width=\"140\" height=\"140\" alt=\"Alexandre Proux avatar\" src="/static/img/icon.jpg">\n')
     foFILE_sheet.write("                </center></p>\n")
     foFILE_sheet.write("\n")
     foFILE_sheet.write("                <h1 class=\"brand-title\">Pause nature</h1>\n")
