@@ -2,7 +2,7 @@
 
 <!--start_head-->
 <meta name="description" content="Cet article fait une revue de la promenade à Prapic dans les Alpes.">    
-<title>Bienvenue au Lac Charlet</title>  
+<title>Promenade Prapic</title>  
 <!--end_head-->
 
 <!--start_content-->
