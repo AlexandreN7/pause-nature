@@ -52,7 +52,12 @@ def gallery_pictures():
 def pic_gallery(name):
     html_name = "sheet-"+name+".html"
     return render_template(html_name)
-    
+ 
+@app.route("/galerie_pictures-<name>")
+def pic_gallery_sorted(name):
+    html_name = "galerie_pictures-"+name+".html"
+    return render_template(html_name)
+ 
 @app.route("/sitemap.xml")
 def sitemap():
     return render_template("sitemap.xml")
