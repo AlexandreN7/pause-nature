@@ -4,12 +4,13 @@
 import os
 import re 
 import generate_pictures
+import generate_paintings
 
 #site_configuration = open("site_conf.txt","r")
 
 os.system('rm templates/sheet-*'); # to be kept
 generate_pictures.gene_pic_gallery()
-os.system('perl static/css/layouts/autogenerate_peinture.pl'); ## TO BE REMOVED AFTER TRANSFORM TO PYTHON SCRIPT
+generate_paintings.gene_pic_gallery()
 
 article_list_en = [
 "review-manet-ukiyoe",

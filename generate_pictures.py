@@ -305,12 +305,12 @@ def gene_pic_gallery():
                 per_page=200)
         total = ims['total']
         totalhits = ims['totalHits'] + totalhits
-        print("nombre d'images",total)
-        print("nombre de hits",totalhits)
+        print("PIXABAY: nombre d'images : ",total)
+        print("PIXABAY: nombre de hits : ",totalhits)
         imgList.append(ims)
         pageNb+=1
     
-    print (ims)
+    #print (ims)
     
     ######################################
     ### Create paths 
@@ -371,6 +371,7 @@ def gene_pic_gallery():
     foFILELiving.close()
     foFILEGiverny.close()
     foFILEMountain.close()
+    foFILEFlower.close()
 
     ######################################
     ### auto generate CSS
