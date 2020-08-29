@@ -146,6 +146,7 @@ def gene_pic_gallery():
             fetched_deviations = da.get_gallery_folder(
                 username=username,
                 offset=offset,
+                mode="newest",
             )
                 
             #add fetched deviations to stack
