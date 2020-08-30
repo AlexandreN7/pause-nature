@@ -44,6 +44,11 @@ def about():
 def gallery():
     return render_template("galerie_peinture.html")
    
+@app.route("/galerie_peinture-<name>")
+def paint_gallery_sorted(name):
+    html_name = "galerie_peinture-"+name+".html"
+    return render_template(html_name)
+   
 @app.route("/galerie_pictures")
 def gallery_pictures():
     return render_template("galerie_pictures.html") 

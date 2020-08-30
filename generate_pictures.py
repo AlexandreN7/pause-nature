@@ -244,7 +244,7 @@ def gene_pic_gallery():
     
     #print (ims)
     imagePerPage = 24
-    pagesHtml = round(total/imagePerPage)
+    pagesHtml = round((total/imagePerPage)+0.5)
     
     ######################################
     ### Create paths 
@@ -280,6 +280,7 @@ def gene_pic_gallery():
            ["mountain", 0, "mountain|alps", "emptyNothing"], 
            ["flower", 0, "flower|blossom|garden|rose", "insect|dragonfly|butterfly|mantis|ladybug|bee|chafer|caterpillar|animal|bird|cat|frog|reptile|snake"]]
   
+    print ("PAGES all : "+str(pagesHtml))
     for element in range(len(tri)):
         tri[element][1] = analyzeImgNbrToGetPages(imgList, imagePerPage, tri[element][2], tri[element][3])
         print ("PAGES "+tri[element][0]+" : "+str(tri[element][1]))
@@ -298,8 +299,7 @@ def gene_pic_gallery():
         if (dictionnary):
             pagesListTri.append(dictionnary)
         
-    #print (pagesListTri)
-
+    # START GENERATION
     copy = 1
     for line in foFILEout:
         if (copy == 1):
