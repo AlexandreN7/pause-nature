@@ -65,6 +65,7 @@ def autoHTML (name, link, alt, templatePath, pageURL):
     foFILE_sheet.write("\n")
     foFILE_sheet.write("                <p><center>\n")
     foFILE_sheet.write("                    <a href=\"https://www.instagram.com/archiwyzard/\"><img src=\"../static/img/common/logo_instagram.jpg\" alt=\"logo instagram\" height=\"30px\" width=\"30px\" /></a>\n")
+    foFILE_sheet.write("                    <a href=\"https://www.instagram.com/all_living_beings/\"><img src=\"../static/img/common/logo_instagram.jpg\" alt=\"logo instagram\" height=\"30px\" width=\"30px\" /></a>\n")
     foFILE_sheet.write("                    <a href=\"https://www.deviantart.com/archiwyzard/\"><img src=\"../static/img/common/logo_deviantart.jpeg\" alt=\"logo deviantart\" height=\"30px\" width=\"30px\" /></a>\n")
     foFILE_sheet.write("                    <a href=\"https://pixabay.com/users/sinason-14315822/\"><img src=\"../static/img/common/logo_pixabay.jpg\" alt=\"logo pixabay\" height=\"30px\" width=\"30px\" /></a>\n")
     foFILE_sheet.write("                <center></p>\n")
