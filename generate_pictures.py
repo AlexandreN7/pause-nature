@@ -79,6 +79,18 @@ def autoHTML (name, link, alt, templatePath, pageURL):
     foFILE_sheet.write("                <div class=\"photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-2\">\n")
     foFILE_sheet.write("                <img width=100% height=100% src=\""+link+"\" alt=\""+alt+"\">\n")
     foFILE_sheet.write("                </div>\n")
+    
+    foFILE_sheet.write("                <script async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\n")
+    foFILE_sheet.write("                <ins class=\"adsbygoogle\"\n")
+    foFILE_sheet.write("                style=\"display:block; text-align:center;\"\n")
+    foFILE_sheet.write("                data-ad-layout=\"in-article\"\n")
+    foFILE_sheet.write("                data-ad-format=\"fluid\"\n")
+    foFILE_sheet.write("                data-ad-client=\"ca-pub-4353004932795007\"\n")
+    foFILE_sheet.write("                data-ad-slot=\"5273903670\"></ins>\n")
+    foFILE_sheet.write("                <script>\n")
+    foFILE_sheet.write("                (adsbygoogle = window.adsbygoogle || []).push({});\n")
+    foFILE_sheet.write("                </script>\n")
+    
     foFILE_sheet.write("\n")
     foFILE_sheet.write("            <div> <!-- div footer -->\n")
     foFILE_sheet.write("                    <div class=\"footer\">\n")
