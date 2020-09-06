@@ -13,6 +13,7 @@ generate_pictures.gene_pic_gallery()
 generate_paintings.gene_pic_gallery()
 
 article_list_en = [
+"review-Saal",
 "review-manet-ukiyoe",
 "review-fountain-pen-lamy2000",
 "review-versatile-palette",
@@ -25,6 +26,7 @@ article_list_en = [
 ]
 
 article_list_fr = [
+"revue-Saal",
 "revue-rando-Prapic",
 "revue-rando-Fourchu",
 "revue-rando-Charlet",
