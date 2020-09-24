@@ -288,7 +288,7 @@ def gene_pic_gallery():
         
     ##### SORTED 
     tri = [["insects", 0, "insect|dragonfly|butterfly|mantis|ladybug|bee|chafer|caterpillar", "emptyNothing"], 
-           ["living", 0, "insect|dragonfly|butterfly|mantis|ladybug|bee|chafer|caterpillar|animal|bird|cat|frog|reptile|snake", "emptyNothing"], 
+           ["living", 0, "insect|dragonfly|butterfly|mantis|ladybug|bee|chafer|caterpillar|animal|bird|cat|frog|reptile|snake|robin|sparrow|seagull", "emptyNothing"], 
            ["giverny", 0, "giverny|monet|nympheas", "emptyNothing"],
            ["mountain", 0, "mountain|alps", "emptyNothing"], 
            ["flower", 0, "flower|blossom|garden|rose", "insect|dragonfly|butterfly|mantis|ladybug|bee|chafer|caterpillar|animal|bird|cat|frog|reptile|snake"]]
