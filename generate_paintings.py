@@ -132,9 +132,9 @@ def createPic(imgList, templatePath, pagesList, imagePerPage):
     for deviation in imgList :
         
         #print (deviation.content)
-        print (deviation.thumbs)
+        #print (deviation.thumbs)
         
-        #link = format(deviation.content.get("src")) # big big image 
+        linkBIG = format(deviation.content.get("src")) # big big image 
         link = format(deviation.thumbs[2].get("src"))
         pageURL = format(deviation.url)
         alt = format(deviation.title)+" drawing deviantart archiwyzard"
@@ -149,7 +149,7 @@ def createPic(imgList, templatePath, pagesList, imagePerPage):
         currentIMG +=1
             
         #### Generate file HTML for picture
-        autoHTML(name, link, alt, templatePath, pageURL)
+        autoHTML(name, linkBIG, alt, templatePath, pageURL)
         
     for pagesFiles in range(len(pagesList)):
         pagesList[pagesFiles]["foFILE"].write("    </div> <!-- End div classe gallery -->\n")
