@@ -130,7 +130,12 @@ def createPic(imgList, templatePath, pagesList, imagePerPage):
     borderCount = 0
     currentIMG = 0
     for deviation in imgList :
-        link = format(deviation.content.get("src"))
+        
+        #print (deviation.content)
+        print (deviation.thumbs)
+        
+        #link = format(deviation.content.get("src")) # big big image 
+        link = format(deviation.thumbs[2].get("src"))
         pageURL = format(deviation.url)
         alt = format(deviation.title)+" drawing deviantart archiwyzard"
         name = pageURL
