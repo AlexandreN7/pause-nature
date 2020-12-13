@@ -26,6 +26,7 @@ article_list_en = [
 ]
 
 article_list_fr = [
+"revue-champignons",
 "revue-rando-cancale",
 "revue-Saal",
 "revue-rando-Prapic",
