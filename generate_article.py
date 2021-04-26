@@ -26,6 +26,7 @@ article_list_en = [
 ]
 
 article_list_fr = [
+"revue-rando-connex",
 "revue-rando-passerelles",
 "revue-rando-lac-mort",
 "revue-rando-chauvet",
