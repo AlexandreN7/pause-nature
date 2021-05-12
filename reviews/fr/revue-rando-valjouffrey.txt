@@ -30,7 +30,7 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
 
 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
 <img width=100% height=100%
-                src="../../static/img/review_valjouffray/IMG_5416_Valjouffrey.jpg"        
+                src="../../static/img/review_valjouffrey/IMG_5416_Valjouffrey.jpg"        
                 alt="Valjouffrey Alpes"></a>
 </div>
 
@@ -52,25 +52,25 @@ Attention, prenez bien soin d'avoir assez d'eau, car il est vivement déconseill
 
 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
 <img width=100% height=100%
-                src="../../static/img/review_valjouffray/IMG_5332_Valjouffrey.jpg"        
+                src="../../static/img/review_valjouffrey/IMG_5332_Valjouffrey.jpg"        
                 alt="Valjouffrey Alpes"></a>
 </div>
  
 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
 <img width=100% height=100%
-                src="../../static/img/review_valjouffray/IMG_5394_Valjouffrey.jpg"        
+                src="../../static/img/review_valjouffrey/IMG_5394_Valjouffrey.jpg"        
                 alt="Valjouffrey Alpes"></a>
 </div>
 
 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
 <img width=100% height=100%
-                src="../../static/img/review_valjouffray/IMG_5403_Valjouffrey.jpg"        
+                src="../../static/img/review_valjouffrey/IMG_5403_Valjouffrey.jpg"        
                 alt="Valjouffrey Alpes"></a>
 </div>
 
 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
 <img width=100% height=100%
-                src="../../static/img/review_valjouffray/IMG_5424_Valjouffrey.jpg"        
+                src="../../static/img/review_valjouffrey/IMG_5424_Valjouffrey.jpg"        
                 alt="Valjouffrey Alpes"></a>
 </div>
 
