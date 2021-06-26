@@ -26,6 +26,7 @@ article_list_en = [
 ]
 
 article_list_fr = [
+"revue-rando-Charlet",
 "revue-rando-salette",
 "revue-rando-valjouffrey",
 "revue-rando-connex",
@@ -38,7 +39,6 @@ article_list_fr = [
 "revue-Saal",
 "revue-rando-Prapic",
 "revue-rando-Fourchu",
-"revue-rando-Charlet",
 "revue-tutoriel-fabrication-aquarelle",
 "revue-rando-Ambialet",
 "revue-rando-bruniquel",
