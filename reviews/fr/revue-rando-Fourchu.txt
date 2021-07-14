@@ -2,7 +2,7 @@
 
 <!--start_head-->
 <meta name="description" content="Cet article fait une revue de la promenade au Lac Fourchu dans les Alpes.">    
-<title>Bienvenue au Lac Charlet</title>  
+<title>La promenade au LAc Fourchu</title>  
 <!--end_head-->
 
 <!--start_content-->

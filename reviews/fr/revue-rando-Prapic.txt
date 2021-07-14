@@ -2,7 +2,7 @@
 
 <!--start_head-->
 <meta name="description" content="Cet article fait une revue de la promenade à Prapic dans les Alpes.">    
-<title>Promenade Prapic</title>  
+<title>Prapic, promenade accessible et marmottes</title>  
 <!--end_head-->
 
 <!--start_content-->
