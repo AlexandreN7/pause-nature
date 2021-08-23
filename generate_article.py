@@ -26,6 +26,7 @@ article_list_en = [
 ]
 
 article_list_fr = [
+"revue-rando-Perollier",
 "revue-rando-Dourgne",
 "revue-rando-Caylus",
 "revue-rando-Charlet",
