@@ -197,6 +197,7 @@ for ligne in template :
 
    if "content_beginning" in ligne : #debut index
       index_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
+      index_html.write('<h1 class="post-title">News</h1>')
       for article in article_list_en :
          index_html.write('<a href=/en/review/'+article+' >')
          file_article = open("reviews/en/"+article+".txt", "r")
@@ -230,15 +231,17 @@ for ligne in template :
    if "</head>" in ligne : #insertion du <head>
       index_html.write('<meta name="p:domain_verify" content="cea44afbf402c3b5741620e0e26796e7"/>')
       index_html.write('\n')
-      index_html.write('<meta name="description" content="Promoting a positive culture through articles on art, photography and paint. This website offers articles, tutorials and reviews on for drawer and watercolorist.">')#du titre
+      index_html.write('<meta name="description" content="Prenez votre appareil photo, votre peinture et partez sur des chemins de randonnées fantastiques sélectionnés par nos soins !">')#du titre
       index_html.write('\n')
-      index_html.write('<title>Pause nature - The website dedicated to paint and nature</title>')#du titre
+      index_html.write('<title>Randonnée et peinture - pause nature</title>')#du titre
       index_html.write('\n')
       index_html.write('<link rel="alternate" hreflang="fr" href="www.pause-nature.fr">')
       index_html.write('<link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico">')
+      index_html.write('')
 
    if "content_beginning" in ligne : #debut index
       index_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
+      index_html.write('<h1 class="post-title">A la Une</h1>')
       for article in article_list_fr :
          index_html.write('<a href=/fr/revue/'+article+' >')
          file_article = open("reviews/fr/"+article+".txt", "r")
@@ -268,11 +271,11 @@ template.close()
 #generation de de l'onglet reviews EN
 review_html=open("templates/reviews.html","w")
 print("Generation de l'index :")
-template = open("templates/template_en.html", "r")
+template = open("templates/template_fr.html", "r")
 for ligne in template :
    if "</head>" in ligne : #insertion du <head>
-      review_html.write('<meta name="description" content="Summary of reviews on the theme of art, watercolor and painting materials.">  ')#du titre
-      review_html.write('<title>List of review</title>')#du titre
+      review_html.write('<meta name="description" content="Cette page contient la liste des articles publiés sur les thêmes de la randonnée, du dessin et de la peinture aquarelle">  ')#du titre
+      review_html.write('<title>Archive des articles</title>')#du titre
       review_html.write('<link rel="alternate" hreflang="en" href="http://www.pause-nature.fr/reviews">')
       review_html.write('<link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico">')
 
