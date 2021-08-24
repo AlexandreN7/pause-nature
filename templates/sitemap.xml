@@ -1,2512 +1,434 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>http://www.pause-nature.fr/</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/home</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/reviews</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/about</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-Charlet</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-salette</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-valjouffrey</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-connex</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-passerelles</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-lac-mort</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-chauvet</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-Pellafol</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-champignons</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-cancale</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-Saal</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-Prapic</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-Fourchu</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-tutoriel-fabrication-aquarelle</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-Ambialet</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-bruniquel</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-beynes</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-tendre-le-papier</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-ponsonnas</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-rando-montfort</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-kuretake-gansai-tambi</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-fountain-pen-lamy2000</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-portable-painter</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/fr/revue/revue-black-ink</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/en/review/review-Saal</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/en/review/review-manet-ukiyoe</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/en/review/review-fountain-pen-lamy2000</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/en/review/review-versatile-palette</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/en/review/review-morikuni</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/en/review/review-hahnemuhle-watercolor-book</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/en/review/review-kuretake-gansai-tambi</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/en/review/review-hiroshige</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/en/review/review-black-ink</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/en/review/review-portable-painter</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture-page1</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture-page2</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture-page3</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture-page4</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture-page5</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture-page6</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture-page7</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture-page8</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture-page9</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture-page10</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture-page11</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture-page12</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_peinture-page13</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Ink-rendering-training-883816922</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Tit-illustration-883245779</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Saturday-morning-painting-883125744</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Tit-and-Iris-882552509</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Iris-study-882426905</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Hydrangea-and-tit-882054603</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Salette-sanctuary-881817502</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sparrow-head-880584787</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sparrow-and-vine-879878593</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Brush-drawing-for-future-watercolor-879706988</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Ukiyo-e-Sparrow-and-white-flowers-879599853</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Quick-cross-hatching-879514269</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sparrow-and-wine-879048827</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Quick-illustration-878814910</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-pencil-drawing-878616651</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Quick-study-of-nasturtium-Ukiyo-e-style-878194599</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Some-fruits-877994224</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Still-life-study-877503386</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Lys-selon-Latour-877372380</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Ukiyo-e-tit-and-blossom-876995669</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sparrow-and-oranges-876786150</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-European-jay-876552599</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Narcissus-Ukiyo-e-flowers-876351279</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Ukiyo-e-tit-875942043</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-insects-page0</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-living-page0</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-giverny-page0</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-mountain-page0</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-flower-page0</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-page1</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-page2</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-page3</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-page4</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-page5</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-page6</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-burnt-tip-orchid-6274193</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-burnt-tip-orchid-6274183</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-gentian-6274174</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-ladybugs-5721679</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-mushroom-5721683</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-snail-5684600</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-robin-5568362</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-sparrow-5568366</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-sparrow-5568365</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-seagulls-5568364</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-seagull-5568363</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-seagull-5568361</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-mountains-5504792</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-mountains-5504791</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-flower-5504790</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-mountains-5504784</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-mountains-5504783</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-mountains-5504780</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-bird-5504778</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-flower-5504773</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-cows-5504771</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-mountains-5504762</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-prapic-5504756</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-prapic-5504752</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Horses-fighting-875293039</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-La-blanchisseuse-873889250</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Two-riders-by-a-lake-873816870</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-My-new-neighbour-873112653</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Hokusai-exercices-872938057</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-watercolor-tit-872520329</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-black-ink-heron-872414789</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Troglodyte-mignon-871973196</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Ducks-871815131</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sunday-morning-ukiyo-e-861258939</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Ukiyo-e-inspired-drawing-861195503</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Education-860597797</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Color-out-of-space-860525102</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Black-cat-859930852</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-31-crawl-859812955</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-30-Ominous-859721196</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-29-a-dandy-Ibis-859622258</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-27-In-vino-veritas-859413553</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-26-Surprised-eagle-859293132</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-25-why-are-they-looking-for-you-859204792</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-24-Scribe-Owl-859100705</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-23-Mushroom-Season-859003631</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-22-Black-and-brown-ink-wash-858901246</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-inktober-21-an-important-lion-858805531</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-inktober-20-a-proud-pig-858700797</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-19-Line-and-wash-858601633</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-18-Nest-brothers-858489950</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-17-Owl-lady-858396678</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-16-traveling-singer-858303835</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-15-Bring-them-to-me-858202272</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-14-Mr-long-eared-owl-858104828</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-13-Japanese-village-858003186</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-12-brush-painting-857898373</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-11-Heron-looking-for-a-fight-857796481</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-10-Looking-for-a-sparing-partner-857690287</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-9-Looking-for-an-adventure-857602653</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-8-King-Fisher-samurai-857507004</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-7-Toad-success-857405734</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-inktober-5-mister-vulture-857202717</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-4-Thrill-of-the-hunt-857089331</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-In-France-slime-hunt-is-only-suspended-for-1-year-856987907</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-2-moron-hunters-856886017</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inktober-1-sparrow-856789191</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Raven-856375695</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Quick-Sekiro-doodle-855717188</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sekiro-execution-move-855051594</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Chained-ogre-854468417</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Guardian-Ape-duel-854238472</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sekiro-artwork-853710694</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Bird-cross-hatching-853614963</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-d-apres-Grandville-853446132</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Lavis-Luxembourg-garden-paris-853336074</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Little-Sparrow-on-toned-paper-852731719</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-La-meije-852491966</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Quick-drawing-04-08-2020-850975184</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-28-07-2020-850212071</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Bird-sketching-849966779</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Monet-house-at-giverny-849249661</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sparrow-847738050</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Quick-sketch-847623609</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Venus-de-Milo-846972662</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Chardonneret-elegant-846873740</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Jeune-orpheline-au-cimetiere-846435181</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-20-06-2020-846231106</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Magpie-845445055</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-13-06-2020-845338547</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Mesange-charbonniere-845056053</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sparrow-844678551</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-le-penseur-843121587</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Marc-Aurle-842977554</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-psyche-ranime-par-l-amour-842730945</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Chardonneret-lgant-842142743</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Victoire-de-Samothrace-841918841</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-Watercolor-18-04-2020-838359653</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Saint-Paul-Cathedral-London-837982618</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Auray-Morbihan-France-837844137</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Le-hameau-de-la-reine-Versailles-837584847</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Two-friends-06-04-2020-836765327</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Heron-05-04-2020-836619270</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Plaisir-castle-Yvelines-France-836353923</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Tarier-des-prs-836233849</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-01-04-2020-836059967</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-flower-study-835915117</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Kemarikos-835481690</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-The-Temple-of-Hephaestus-835096761</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cariatides-834873723</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Philae-21-03-2020-834611375</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Eglise-Montfort-l-Amaury-834487524</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Tit-on-eletrical-cable-833740303</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-painting-02-03-2020-832389330</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-painting-29-02-2020-832142285</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-painting-28-02-2020-832012378</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-25-02-2020-831739575</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-23-02-2020-831462993</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-16-02-2020-830646418</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Aerobatics-of-a-swallow-830457284</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-08-02-2020-829732279</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-06-02-2020-829522900</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-King-fisher-study-828952268</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-31-01-828805435</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Tonight-work-828628904</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sunday-drawing-828290480</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Painted-for-a-friend-828149567</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-A-fish-to-change-827647483</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Swallow-with-Morikuni-style-827403582</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-well-another-bird-inspired-by-Hokusai-827284518</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Inspired-by-Hokusai-827084487</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-watercolor-according-to-hokusai-826709776</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Swirl-in-ocean-825799441</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Mushrooms-watercolor-825699642</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Drawing-i-forgot-to-post-825697765</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-First-drawing-of-2020-825673376</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Mikiri-counter-sekiro-artwork-824673832</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sekiro-sumi-e-824630700</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-cherry-blossom-study-824536537</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Art-of-the-day-824439898</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-11-12-2019-823202098</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Zen-drawing-822756120</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-daily-drawing-30-11-2019-821937888</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Magpie-sumi-e-821445368</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Swallow-and-cherry-blossom-821337811</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-sumi-e-experimentation-821190217</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-tree-sumi-e-style-820622418</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cherry-blossom-819942393</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-07-11-2019-819629593</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Hephaisteion-27-10-2019-818274368</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Skyrim-tertre-817561968</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Parthenon-817351213</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Wind-tower-Athens-817308812</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-cariatides-817209469</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Apple-tree-flowers-817187743</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Little-swallow-816076792</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Still-a-study-about-bird-815964345</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Robin-815864133</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sparrows-758003546</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-blue-yellow-bird-757485416</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-swallow-757044905</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Aviary-tribunal-756840523</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Dailydrawing-2-13-07-2017-754330997</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-13-07-2018-754284594</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Japonese-style-cherry-blossom-754036908</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-2-11-07-2018-753992315</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-11-07-2018-753987311</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-10-07-2018-753821045</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-09-07-2018-753658809</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-08-07-2018-753544137</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-07-07-2018-753372502</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-04-07-2018-752926632</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-03-07-2017-752768776</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-02-07-2018-752608477</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-01-06-2018-752395675</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-30-06-2018-752376755</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-29-06-2018-752119021</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-28-06-2018-751948924</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-27-06-2018-751803304</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-26-06-2018-751596405</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-25-06-2018-751466825</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-24-06-2018-751272811</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Blue-tit-751113716</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-20-06-2018-750689380</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-19-06-2018-750529030</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-18-06-2018-750360303</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-17-06-2018-750178599</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-doodle-16-05-2018-750177242</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-drawing-14-06-2018-750177077</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Daily-doodle-10-06-2018-750176933</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Oh-Alfred-748211763</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-heron-and-flamingos-745977566</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Red-Throat-on-a-tree-744945129</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-doodle-744766823</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Strike-about-Paris-743760747</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Swallow-741462609</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Swallows-740545449</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Tit-study-740368471</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Fluffy-bird-740081233</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-work-in-progress-739944984</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Blue-Jay-739471347</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Work-in-progress-739457623</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-tit-739296431</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Bird-on-a-branch-738499550</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Chardonneret-on-a-tree-738328488</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Darksoul-doodle-737179686</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cherry-Blossom-730381428</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-The-call-of-Cthulhu-728012135</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Red-rose-727466916</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-houx-722093853</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cherry-blossom-722032768</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-White-rose-721911910</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Onion-721376026</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Health-potion-717259727</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-clementines-717246925</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-cherry-blossom-716905328</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Tree-cutting-714087301</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Pear-tree-flowers-712274680</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Bee-working-712152699</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Lilac-711502179</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cherry-blossom-711326671</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Orchid-711322581</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Raspberries-710924318</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Blueberries-710881833</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Olive-tree-710298495</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Edelweiss-709951875</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-viola-709951519</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-butternut-709886980</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cherry-Blossom-709711188</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Chestnut-709701628</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Rose-709061178</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Edelweiss-708896062</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cherry-blossom-708647146</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cherry-blossom-708637716</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Gainsbourg-708135581</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Mushroom-708132850</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Japanese-Maple-707603937</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Lily-pad-707344633</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cherry-blossom-707206219</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-cherry-blossom-706689192</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Rose-705996271</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Pear-tree-flowers-705958461</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-sushis-705946517</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sushis-705484432</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Grapes-705315994</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Sushis-704942424</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cathdrale-Saint-Louis-Versailles-704934694</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cherry-blossom-704736037</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Apple-tree-flowers-704604606</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Rose-exercise-704297925</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Nuts-703971145</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Lavender-703959263</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Currant-watercolor-703783806</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Majora-s-mask-artwork-703725479</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Mushrooms-703701166</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Banana-skin-703697839</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Little-doodle-703235740</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Watercolor-exercises-703065999</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Edelweiss-702747410</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cabbage-702551837</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cabin-in-the-mountain-702524740</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Moutains-702503771</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Saint-Etienne-du-mont-Paris-702476957</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Some-flowers-702471814</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Lonely-bridge-702178172</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Lonely-bridge-in-the-forest-702169019</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Chapelle-expiatoire-Paris-701906199</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Abyss-watcher-701256423</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Le-hameau-de-la-reine-Versailles-701199358</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Praise-the-sun-701049220</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Treasure-of-the-forest-701012902</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Onion-700998941</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Onion-700984646</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Radish-attempt-700886141</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Rosa-attempt-700875920</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-strawberry-study-700714041</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Strawberries-700704462</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Raspberries-700524574</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Soldiers-700170617</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Viola-attempt-699978514</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Viola-attempt-699971771</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Mountain-flower-699928669</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Yellow-pepper-699927981</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Raisin-study-699905823</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Chestnut-study-698956222</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-The-thinker-of-Astora-698931617</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Peyredragon-698759561</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Tomato-study-698732650</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Mushroom-House-698724546</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Mushroom-study-698608910</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Mushroom-study-698574028</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Amanite-tue-mouches-698555221</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Dragon-fruit-698543332</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Botanic-drawing-698428454</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Flowers-697629662</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Quince-697403324</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Oranges-697173468</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-The-hidden-chapelle-expiatoire-Paris-697145894</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Don-t-forget-to-pray-the-sun-696820183</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Viola-696196052</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Oak-695998527</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-practicing-bananas-695783433</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Practicing-garlic-695755850</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-practicing-oranges-695748756</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Moutain-flowers-695189282</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Cherries-694982218</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Strawberries-694776521</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Forest-mushrooms-694759114</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Poppies-694574125</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Bad-memories-694318143</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Raspberries-694317863</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Better-watch-your-back-694309804</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-Praise-the-sun-694309610</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-You-died-694308435</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-insects-page1</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-dragonfly-5478163</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-dragonfly-5478119</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-butterfly-5478069</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-dragonfly-5417259</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-dragonfly-5417246</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-dragonfly-5405023</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-dragonfly-5405011</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-dragonflies-5322357</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-butterfly-5322362</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-butterfly-5322360</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-ladybug-5271700</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-ladybug-5271680</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-ladybug-5271677</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-bee-5202249</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-dragonfly-5178614</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-dragonfly-5178588</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-beetle-5146668</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-beetle-5146607</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-beetle-5146626</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-grasshopper-5117767</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-ladybug-5117757</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-butterfly-4951310</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-butterfly-4951309</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-living-page1</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-living-page2</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-frog-5478152</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-bird-5443150</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-duck-5443142</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-lizard-5417249</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-bird-5411597</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-bird-5411613</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-swallow-5411575</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-swan-5322378</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-nympheas-5391544</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-giverny-5391675</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-giverny-5391671</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-giverny-5391672</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-giverny-5391658</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-nympheas-5391568</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-giverny-5391558</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-prapic-5504751</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-prapic-5504746</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-prapic-5504712</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-mountains-5482813</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-lake-5482810</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-mountain-5478084</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-mountain-5478077</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-lake-5478071</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-lizard-4941507</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-moutain-4941509</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-moutain-4941506</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/galerie_pictures-flower-page1</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-lily-5391505</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-columbine-5202235</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-chives-5117751</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-iris-5095802</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-oxalis-5095757</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-thyme-5055025</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-nasturtium-5055015</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-nasturtium-5055013</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-flowers-4978735</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-flowers-4951332</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-flowers-4951325</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-flowers-4951286</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-flower-4944492</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-flower-4944491</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-tulip-4879970</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-tunnel-5478076</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-swan-5322376</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-snail-5322361</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-spider-5322353</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-snail-5322333</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-frog-5294934</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-frog-5294937</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-spider-5153369</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-nasturtium-5146408</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-viper-5125784</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-viper-5125782</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-sparrow-5117732</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-robin-5117727</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-sparrow-5117704</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-burgeon-5003204</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-squirrel-5002455</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-squirrel-5002453</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-bulrush-4951322</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-butterfly-4951289</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-bee-4944489</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-bee-4944487</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-bee-4944486</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-bee-4944485</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-lizard-4941501</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-bird-4930603</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-tulip-4879969</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-goose-4873142</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-mushrooms-4873141</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-versailles-4873133</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>http://www.pause-nature.fr/sheet-duck-4873132</loc>
-  <lastmod>2021-06-27T09:44:50+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-
-
+    <urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-burnt-tip-orchid-6274193</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture-page6</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Quick-study-of-nasturtium-Ukiyo-e-style-878194599</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-fountain-pen-lamy2000</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-sparrow-5568365</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-Caylus</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Ukiyo-e-tit-and-blossom-876995669</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Cherry-blossom-707206219</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-Prapic</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Cathdrale-Saint-Louis-Versailles-704934694</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-salette</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-mountains-5504792</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-Perollier</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-mountains-5504780</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-cottage-6531822</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-cancale</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-Ambialet</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-My-new-neighbour-873112653</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Tit-and-Iris-882552509</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-black-ink-heron-872414789</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-cows-5504771</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_pictures</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/en/review/review-morikuni</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-snail-5684600</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/reviews</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture-page5</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture-page1</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Iris-study-882426905</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-mountains-5504791</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-portable-painter</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-mountains-5504762</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Hokusai-exercices-872938057</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Ukiyo-e-tit-875942043</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Quick-cross-hatching-879514269</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-montfort</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-prapic-5504756</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Ukiyo-e-Sparrow-and-white-flowers-879599853</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Saint-Cirq-Lapopie-France-889456325</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_pictures-page2</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-bruniquel</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-La-blanchisseuse-873889250</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Sparrow-and-vine-879878593</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Hydrangea-and-tit-882054603</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Bird-in-the-style-of-the-old-masters-886072938</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-Charlet</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-Pellafol</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/home</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Beautiful-house-seen-at-Saint-Cirq-Lapopie-France-889544269</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_pictures-insects-page0</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Narcissus-Ukiyo-e-flowers-876351279</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Brush-drawing-for-future-watercolor-879706988</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-champignons</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Horse-sketch-885276780</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-ponsonnas</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Sparrow-head-880584787</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Quick-illustration-878814910</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture-page8</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/en/review/review-portable-painter</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-pencil-drawing-878616651</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Apple-tree-flowers-704604606</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-beynes</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Peers-study-885388888</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_pictures-page5</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Still-life-study-877503386</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-black-ink</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_pictures-page6</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Ducks-871815131</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_pictures-page1</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Tit-illustration-883245779</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Fluffy-tit-886373625</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Fluffy-black-bird-887807259</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Running-spanish-horse-887493408</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-flower-5504773</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/about</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture-page7</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Ink-rendering-training-883816922</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-watercolor-tit-872520329</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/en/review/review-Saal</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Cherry-Blossom-709711188</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_pictures-page4</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/en/review/review-manet-ukiyoe</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-ladybugs-5721679</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Two-riders-by-a-lake-873816870</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/en/review/review-fountain-pen-lamy2000</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/en/review/review-hahnemuhle-watercolor-book</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-mountains-5504784</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture-page3</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture-page10</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Study-on-toned-paper-884541420</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_pictures-living-page0</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-robin-5568362</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-seagull-5568361</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-mountains-5504783</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-lac-mort</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Iris-cross-hatching-884043923</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Cherry-blossom-704736037</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Lys-selon-Latour-877372380</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture-page11</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-burnt-tip-orchid-6274183</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-tutoriel-fabrication-aquarelle</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-valjouffrey</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture-page13</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-basket-of-plums-887263121</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-Dourgne</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Sparrow-and-oranges-876786150</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_pictures-giverny-page0</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-bird-5504778</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture-page2</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-flower-5504790</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-chauvet</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture-page4</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Some-fruits-877994224</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-connex</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-sparrow-5568366</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Sparrow-and-wine-879048827</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Allegory-of-the-current-world-887917376</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture-page9</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Urban-sketching-at-Lisle-sur-Tarn-France-889378602</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-Saal</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Troglodyte-mignon-871973196</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-seagull-5568363</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Rendering-exercice-885691755</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-kuretake-gansai-tambi</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-tendre-le-papier</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Salette-sanctuary-881817502</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_peinture-page12</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-Fourchu</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-European-jay-876552599</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/en/review/review-black-ink</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-gentian-6274174</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/en/review/review-versatile-palette</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Saturday-morning-painting-883125744</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_pictures-flower-page0</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-seagulls-5568364</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Spanish-horse-rearing-up-887675620</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/fr/revue/revue-rando-passerelles</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/en/review/review-hiroshige</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_pictures-page3</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-mushroom-5721683</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/sheet-Horses-fighting-875293039</loc>
+	</url>
+	<url>
+		<loc>https://www.pause-nature.fr/galerie_pictures-mountain-page0</loc>
+	</url>
 </urlset>
