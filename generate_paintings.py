@@ -10,7 +10,7 @@ import deviantart
 ### Create functions 
 ######################################
 def autoHTML (name, link, alt, templatePath, pageURL):
-    foFILE_sheet = open (templatePath+"/sheet-"+name+".html", "w")
+    foFILE_sheet = open (templatePath+"/sheet-peinture-"+name+".html", "w")
     foFILE_sheet.write("<!doctype html>\n")
     foFILE_sheet.write("<html lang=\"en\">\n")
     foFILE_sheet.write("    <head>\n")
@@ -49,16 +49,16 @@ def autoHTML (name, link, alt, templatePath, pageURL):
     foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/home\">Home</a>\n")
     foFILE_sheet.write("                        </li>\n")
     foFILE_sheet.write("                        <li class=\"nav-item\">\n")
-    foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/reviews\">Reviews</a>\n")
+    foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/reviews\">Articles : randonnées et art</a>\n")
     foFILE_sheet.write("                        </li>\n")
     foFILE_sheet.write("                        <li class=\"nav-item\">\n")
-    foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/galerie_peinture\">Paintings</a>\n")
+    foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/galerie_peinture\">Dessins et aquarelles</a>\n")
     foFILE_sheet.write("                        </li>\n")
     foFILE_sheet.write("                        <li class=\"nav-item\">\n")
-    foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/galerie_peinture\">Pictures</a>\n")
+    foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/galerie_peinture\">Photographie</a>\n")
     foFILE_sheet.write("                        </li>\n")
     foFILE_sheet.write("                        <li class=\"nav-item\">\n")
-    foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/about\">About</a>\n")
+    foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/about\">A-propos</a>\n")
     foFILE_sheet.write("                        </li>\n")
     foFILE_sheet.write("                    </ul>\n")
     foFILE_sheet.write("                </nav>\n")
@@ -68,6 +68,7 @@ def autoHTML (name, link, alt, templatePath, pageURL):
     foFILE_sheet.write("                    <a href=\"https://www.instagram.com/all_living_beings/\"><img src=\"../static/img/common/logo_instagram.jpg\" alt=\"logo instagram\" height=\"30px\" width=\"30px\" /></a>\n")
     foFILE_sheet.write("                    <a href=\"https://www.deviantart.com/archiwyzard/\"><img src=\"../static/img/common/logo_deviantart.jpeg\" alt=\"logo deviantart\" height=\"30px\" width=\"30px\" /></a>\n")
     foFILE_sheet.write("                    <a href=\"https://pixabay.com/users/sinason-14315822/\"><img src=\"../static/img/common/logo_pixabay.jpg\" alt=\"logo pixabay\" height=\"30px\" width=\"30px\" /></a>\n")
+    foFILE_sheet.write("                    <a href=\"https://www.deviantart.com/sinason/\"><img src=\"../static/img/common/logo_deviantart.jpeg\" alt=\"logo deviantart\" height=\"30px\" width=\"30px\" /></a>\n")
     foFILE_sheet.write("                <center></p>\n")
     foFILE_sheet.write("            </div>\n")
     foFILE_sheet.write("        </div>\n")
@@ -143,7 +144,7 @@ def createPic(imgList, templatePath, pagesList, imagePerPage):
         if (((currentIMG%imagePerPage)==0) and (currentIMG != 0)):
             borderCount +=1
         pagesList[borderCount]["foFILE"].write("         <label class=\"gallery__item\" for=\""+str(currentIMG % imagePerPage)+"\">\n")
-        pagesList[borderCount]["foFILE"].write("             <a href=\"/sheet-"+str(name)+"\" target=\"_blank\">\n")
+        pagesList[borderCount]["foFILE"].write("             <a href=\"/sheet-peinture-"+str(name)+"\" target=\"_blank\">\n")
         pagesList[borderCount]["foFILE"].write("             <img class=\"cover\" height=100% width=100% min-height=\"50px\" src=\""+link+"\" alt=\""+alt+"\"></a>\n")
         pagesList[borderCount]["foFILE"].write("         </label>\n")
         currentIMG +=1

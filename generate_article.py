@@ -8,7 +8,7 @@ import generate_paintings
 
 #site_configuration = open("site_conf.txt","r")
 
-os.system('rm templates/sheet-*'); # to be kept
+os.system('rm -f templates/sheet-*'); # to be kept
 generate_paintings.gene_pic_gallery()
 generate_pictures.gene_pic_gallery()
 
