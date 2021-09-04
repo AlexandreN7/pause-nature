@@ -1,4 +1,4 @@
-                       
+<! -- RANDO_KEYWORD -->                       
 
 <!--start_head-->
 <meta name="description" content="Ponsonnas, village Alpin, et sa beauté simple.">    

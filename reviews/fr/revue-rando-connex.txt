@@ -1,4 +1,4 @@
-                       
+<! -- RANDO_KEYWORD -->                       
 
 <!--start_head-->
 <meta name="description" content="Cet article fait une revue de la promenade sur les sommets du Connex en Matheysine dans les Alpes.">    

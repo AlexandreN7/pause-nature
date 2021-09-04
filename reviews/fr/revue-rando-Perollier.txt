@@ -1,4 +1,4 @@
-                       
+<! -- RANDO_KEYWORD -->                       
 
 <!--start_head-->
 <meta name="description" content="Cet article fait une revue de la promenade en passant par le sentier du diable et en revenant par le Lac Charlet dans les Alpes.">    

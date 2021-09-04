@@ -1,4 +1,4 @@
-                       
+<! -- RANDO_KEYWORD -->                       
 
 <!--start_head-->
 <meta name="description" content="Cet article fait une revue de la randonnée jusqu'à La Salette depuis le col de Parquetout, dans les Alpes Françaises.">    

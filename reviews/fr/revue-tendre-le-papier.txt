@@ -1,3 +1,5 @@
+<! -- ART_KEYWORD -->
+
 <!--start_head-->
 <meta name="description" content="Le papier mouillé ça gondole ! Dans cet article je montre comment tendre du papier pour la pratique de l'aquarelle">
 <title>Tendre le papier aquarelle</title>
@@ -16,7 +18,7 @@ BkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsIn
 cLzU0ODUxMjI1LTEzZWQtNDk5OS1iZTI4LTg4M2UxNDNlNDYxY1wvZGNnd282ei1jYjA3MDcyZC0xYzc2LTQ1MGEtODg3
 ZC1hNDI3ODdlMjBjZDYuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3Blc
 mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
-                                <h1>Tutorial aquarelle : tendre le papier</h1>
+                                <h1 class="post-title">Tutorial aquarelle : tendre le papier</h1>
                                 <p class="post-meta">
                                 Date : 26/03/2020 by <class="post-author">Alexandre Proux</a> under <a class="post-category post-category-design">TUTORIAL</a>
                                 </p>

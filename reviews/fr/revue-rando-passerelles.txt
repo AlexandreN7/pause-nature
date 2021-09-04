@@ -1,4 +1,4 @@
-                       
+<! -- RANDO_KEYWORD -->                       
 
 <!--start_head-->
 <meta name="description" content="Cet article fait une revue de la promenade entre les passerelles du Drac et de l'Ebron en Matheysine dans les Alpes.">    

@@ -93,8 +93,6 @@ for article in article_list_en :
             if "end_head" in ligne_article :
                write = 0
             if write == 1 :
-               print("ecriture du header")
-               print(ligne_article)
                file_html.write(ligne_article)#ecriture de l'article
 
 
@@ -144,8 +142,6 @@ for article in article_list_fr :
             if "end_head" in ligne_article :
                write = 0
             if write == 1 :
-               print("ecriture du header")
-               print(ligne_article)
                file_html.write(ligne_article)#ecriture de l'article
 
 

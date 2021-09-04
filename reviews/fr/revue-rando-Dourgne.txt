@@ -1,4 +1,4 @@
-                       
+<! -- RANDO_KEYWORD -->                       
 
 <!--start_head-->
 <meta name="description" content="Cet article fait une revue de la randonnée au départ de Dourgne jusqu'à la chapelle La Capelette, dans le Tarn.">    

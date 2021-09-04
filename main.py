@@ -36,6 +36,14 @@ def revue(name):
 def reviews():
     return render_template("reviews.html")
 
+@app.route("/reviews_rando")
+def reviews_rando():
+    return render_template("reviews_rando.html")
+
+@app.route("/reviews_art")
+def reviews_art():
+    return render_template("reviews_art.html")
+
 @app.route("/about")
 def about():
     return render_template("about.html")
