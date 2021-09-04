@@ -208,7 +208,7 @@ def gene_pic_gallery():
 
     #print (deviations)
     total = len(deviations)
-    print ("DEVIANTART: total deviations : ",total)
+    print ("DEVIANTART ARCHIW: total deviations : ",total)
     
     imagePerPage = 24
     pagesHtml = round((total/imagePerPage)+0.5)
