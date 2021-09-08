@@ -113,11 +113,11 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
                 alt="Lac Fourchu Alpes"></a>
 </div>
 
-<p>Pour la suite de la promenade, vous pouvez traverser les rochers sur la droite du lac. Ceux-ci mènent à un chemin qui permet, ensuite, de rejoindre les autres lacs par derrière. Vous croiserez un autre Kairn en équilibre.</p>
+<p>Pour la suite de la promenade, vous pouvez traverser les rochers sur la droite du lac. Ceux-ci mènent à un chemin qui permet, ensuite, de rejoindre les autres lacs par derrière. Vous croiserez un autre Cairn en équilibre.</p>
 
 <div class="photo-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-3">
 <img width=100% height=100%
-                src="../../static/img/review_fourchu/IMG_8176-Kairn.jpg"        
+                src="../../static/img/review_fourchu/IMG_8176-Cairn.jpg"        
                 alt="Lac Fourchu Alpes"></a>
 </div>
 
