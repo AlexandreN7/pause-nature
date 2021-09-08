@@ -27,6 +27,7 @@ article_list_en = [
 ]
 
 article_list_fr = [
+"revue-rando-Fourchu",
 "revue-rando-St-Cirq-Lapopie",
 "revue-rando-Perollier",
 "revue-rando-Dourgne",
@@ -43,7 +44,6 @@ article_list_fr = [
 "revue-rando-cancale",
 "revue-Saal",
 "revue-rando-Prapic",
-"revue-rando-Fourchu",
 "revue-tutoriel-fabrication-aquarelle",
 "revue-rando-Ambialet",
 "revue-rando-bruniquel",
