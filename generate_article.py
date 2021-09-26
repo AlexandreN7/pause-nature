@@ -27,6 +27,7 @@ article_list_en = [
 ]
 
 article_list_fr = [
+"revue-rando-Valgaudemar",
 "revue-rando-Fourchu",
 "revue-rando-St-Cirq-Lapopie",
 "revue-rando-Perollier",
