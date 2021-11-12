@@ -6,6 +6,7 @@ import re
 import generate_pictures
 import generate_paintings
 import generate_reviews
+from random import randint
 
 #site_configuration = open("site_conf.txt","r")
 
@@ -58,215 +59,131 @@ article_list_fr = [
 "revue-black-ink"
 ]
 
+definitions = {
+    "en":
+        {
+            "name":"review",
+            "dict":article_list_en,
+        },
+    "fr": 
+        {
+            "name":"revue",
+            "dict":article_list_fr,            
+        },
+    
+    }
+HEAD_INSERT_PATTERN="INSERT HEAD"
 
-#generation des articles anglais
-for article in article_list_en :
-   #Creation du fichier html
-   template = open("templates/template_en.html", "r")
-   file_html=open("templates/en/"+article+".html","w")
-   print("Generation article :", article)
-   #lecture du template
+for langue in definitions.keys():
+    for article in definitions[langue]["dict"]:
+        #Creation du fichier html
+        template = open("templates/template_"+langue+".html", "r")
+        file_html=open("templates/"+langue+"/"+article+".html","w")
+        print("Generation article :", article)
+        file_article = open("reviews/"+langue+"/"+article+".txt", "r")
+        add_ads = True
 
-   #Generation des articles en anglais
-   for ligne in template :
-      file_article = open("reviews/en/"+article+".txt", "r")
-      if "</head>" in ligne : #insertion du <head>
-         #attention il y a un piege ici : l'article est genere ici /review/
-         file_html.write('<link rel="alternate" hreflang="en" href="www.pause-nature.fr/review/'+article+'">')
-         file_html.write('<script type="application/ld+json">')
-         file_html.write('{')
-         file_html.write('"@context" : "http://schema.org",')
-         file_html.write('"@type" : "Article",')
-         file_html.write('"name" : "'+article+'",')
-         file_html.write('"author" : {')
-         file_html.write('"@type" : "Person",')
-         file_html.write('"name" : "Alexandre Proux"')
-         file_html.write('},')
-         file_html.write('"articleSection" : "review"')
-         file_html.write('}')
-         file_html.write('</script>')
-         file_html.write('link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico"')
+        HEAD_TXT = "<link rel=\"alternate\" hreflang=\""+langue+"\" href=\"www.pause-nature.fr/"+definitions[langue]["name"]+"/"+article+"\"><script type=\"application/ld+json\">{\"@context\" : \"http://schema.org\",\"@type\" : \"Article\",\"name\" : \""+article+"\",\"author\" : {\"@type\" : \"Person\",\"name\" : \"Alexandre Proux\"},\"articleSection\" : \"review\"}</script><link rel=\"shortcut icon\" type=\"image/ico\" href=\"/static/img/favicon.ico\">"
 
-         write = 0
-         for ligne_article in file_article :
-            if "start_head" in ligne_article :
-               write = 1
-            if "end_head" in ligne_article :
-               write = 0
-            if write == 1 :
-               file_html.write(ligne_article)#ecriture de l'article
-
-
-      if "content_beginning" in ligne : #insertion de l'article
-         file_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
-         file_html.write('<div>')
-
-         for ligne_article in file_article :
-            file_html.write(ligne_article)#ecriture de l'article
-      file_article.close()
-
-      file_html.write(ligne)#ecriture des lignes du templates
-   file_html.close()
-   template.close()
-
-#generation des articles francais
-for article in article_list_fr :
-   #Creation du fichier html
-   template = open("templates/template_fr.html", "r")
-   file_html=open("templates/fr/"+article+".html","w")
-   print("Generation article :", article)
-
-   #Generation des articles en anglais
-   for ligne in template :
-      file_article = open("reviews/fr/"+article+".txt", "r")
-      if "</head>" in ligne : #insertion du <head>
-         #attention il y a un piege ici : l'article est genere ici /review/
-         file_html.write('<link rel="alternate" hreflang="fr" href="www.pause-nature.fr/revue/'+article+'">')
-         file_html.write('<script type="application/ld+json">')
-         file_html.write('{')
-         file_html.write('"@context" : "http://schema.org",')
-         file_html.write('"@type" : "Article",')
-         file_html.write('"name" : "'+article+'",')
-         file_html.write('"author" : {')
-         file_html.write('"@type" : "Person",')
-         file_html.write('"name" : "Alexandre Proux"')
-         file_html.write('},')
-         file_html.write('"articleSection" : "review"')
-         file_html.write('}')
-         file_html.write('</script>')
-         file_html.write('<link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico">')
-         
-         write = 0
-         for ligne_article in file_article :
-            if "start_head" in ligne_article :
-               write = 1
-            if "end_head" in ligne_article :
-               write = 0
-            if write == 1 :
-               file_html.write(ligne_article)#ecriture de l'article
-
-
-      if "content_beginning" in ligne : #insertion de l'article
-         file_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
-         file_html.write('<div>')
-         file_html.write('\n')
-         
-         for ligne_article in file_article :
-         
-            if "ads_reference" in ligne_article : # insertion d'une publicité
-                print("insertion d'une pub")
-                #Generation des pubs pour google
+        #Generation des articles en anglais
+        for ligne_template in template :
+            # Print header 
+            if HEAD_INSERT_PATTERN in ligne_template : #insertion du <head>
+                file_html.write(HEAD_TXT)
                 file_html.write("\n")
-                file_html.write('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>' + "\n")
-                file_html.write('<ins class="adsbygoogle"'+ "\n")
-                file_html.write('style="display:block; text-align:center;"'+ "\n")
-                file_html.write('data-ad-layout="in-article"'+ "\n")
-                file_html.write('data-ad-format="fluid"'+ "\n")
-                file_html.write(' data-ad-client="ca-pub-4353004932795007"'+ "\n")
-                file_html.write('data-ad-slot="5273903670"></ins>'+ "\n")
-                file_html.write('<script>'+ "\n")
-                file_html.write('(adsbygoogle = window.adsbygoogle || []).push({});'+ "\n")
-                file_html.write('</script>'+ "\n")
-                file_html.write("\n")
-         
-            file_html.write(ligne_article)#ecriture de l'article
-      file_article.close()
 
-      file_html.write(ligne)#ecriture des lignes du templates
-   file_html.close()
-   template.close()
+                write = 0
+                for ligne_article in file_article :
+                    if "start_head" in ligne_article :
+                        write = 1
+                    if "end_head" in ligne_article :
+                        break
+                    if write == 1 :
+                        file_html.write(ligne_article)#ecriture de l'article
+                continue
 
+            # Print content 
+            if "content_beginning" in ligne_template : #insertion de l'article
+                #file_html.write('<div class="content pure-u-1 pure-u-md-3-4">\n')
 
+                for ligne_article in file_article :
+                    file_html.write(ligne_article)#ecriture de l'article
+                    
+                    ads = randint(0,100)
+                    if (((ads%2) == 0) and add_ads and (ligne_template == "")):
+                        add_ads = False
+                        print("insertion d'une pub")
+                        #Generation des pubs pour google
+                        file_html.write("\n")
+                        file_html.write('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>' + "\n")
+                        file_html.write('<ins class="adsbygoogle"'+ "\n")
+                        file_html.write('style="display:block; text-align:center;"'+ "\n")
+                        file_html.write('data-ad-layout="in-article"'+ "\n")
+                        file_html.write('data-ad-format="fluid"'+ "\n")
+                        file_html.write(' data-ad-client="ca-pub-4353004932795007"'+ "\n")
+                        file_html.write('data-ad-slot="5273903670"></ins>'+ "\n")
+                        file_html.write('<script>'+ "\n")
+                        file_html.write('(adsbygoogle = window.adsbygoogle || []).push({});'+ "\n")
+                        file_html.write('</script>'+ "\n")
+                        file_html.write("\n")                
+                
+                continue
+                    
+            # Ecriture du template après avoir écrit le morceau d'article 
+            file_html.write(ligne_template)
 
+        file_article.close()
+        file_html.close()
+        template.close()
 
-#generation de l'index EN
-index_html=open("templates/en/index.html","w")
-print("Generation de l'index :")
-template = open("templates/template_en.html", "r")
-for ligne in template :
-   if "</head>" in ligne : #insertion du <head>
-      index_html.write('<meta name="p:domain_verify" content="cea44afbf402c3b5741620e0e26796e7"/>')
-      index_html.write('\n')
-      index_html.write('<meta name="description" content="Promoting a positive culture through articles on art, photography and paint. This website offers articles, tutorials and reviews on for drawer and watercolorist.">')#du titre
-      index_html.write('\n')
-      index_html.write('<title>Pause nature - The website dedicated to paint and nature</title>')#du titre
-      index_html.write('\n')
-      index_html.write('<link rel="alternate" hreflang="en" href="www.pause-nature.fr">')
-      index_html.write('<link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico">')
+for langue in definitions.keys():
+    #generation de l'index EN
+    index_html=open("templates/"+langue+"/index.html","w")
+    print("Generation de l'index :")
+    template = open("templates/template_"+langue+".html", "r")
+    for ligne in template :
+        if HEAD_INSERT_PATTERN in ligne : #insertion du <head>
+            index_html.write('<meta name="p:domain_verify" content="cea44afbf402c3b5741620e0e26796e7"/>')
+            index_html.write('\n')
+            index_html.write('<meta name="description" content="Promoting a positive culture through articles on art, photography and paint. This website offers articles, tutorials and reviews on for drawer and watercolorist.">')#du titre
+            index_html.write('\n')
+            index_html.write('<title>Pause nature - The website dedicated to paint and nature</title>')#du titre
+            index_html.write('\n')
+            index_html.write('<link rel="alternate" hreflang="'+langue+'" href="www.pause-nature.fr">')
+            index_html.write('<link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico">')
 
-   if "content_beginning" in ligne : #debut index
-      index_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
-      index_html.write('<h1 class="post-title">News</h1>')
-      for article in article_list_en :
-         index_html.write('<a href=/en/review/'+article+' >')
-         file_article = open("reviews/en/"+article+".txt", "r")
-         for ligne_article in file_article :
-            if "start_head" in ligne_article :
-               write = 0
-            if "end_head" in ligne_article :
-               write = 1
-            if write == 1 :
+        if "content_beginning" in ligne : #debut index
+            if (langue == 'en'):
+                index_html.write('<h1 class="post-title">News</h1>')
+            else:
+                index_html.write('<h1 class="post-title">A la Une</h1>')
+            for article in definitions[langue]["dict"] :
+                index_html.write('<a href=/'+langue+'/'+definitions[langue]["name"]+'/'+article+' >')
+                file_article = open("reviews/"+langue+"/"+article+".txt", "r")
+                for ligne_article in file_article :
+                    if "start_head" in ligne_article :
+                        write = 0
+                    if "end_head" in ligne_article :
+                        write = 1
+                    if write == 1 :
 
-                if "end_header" in ligne_article :
-                   index_html.write('<p>...</p>')
-                   index_html.write('</div>')
-                   index_html.write('</section>')
-                   break
-                else :
-                   new_line = ligne_article.replace("h1","h2")
-                   index_html.write(new_line)
-         index_html.write('</a>')
+                        if "end_header" in ligne_article :
+                            index_html.write('<p>...</p>')
+                            index_html.write('</div>')
+                            index_html.write('</section>')
+                            break
+                        else :
+                            new_line = ligne_article.replace("h1","h2")
+                            index_html.write(new_line)
+                index_html.write('</a>')
 
-   index_html.write(ligne)#ecriture des lignes du templates
-index_html.close()
-template.close()
+        index_html.write(ligne)#ecriture des lignes du templates
+        
+    index_html.close()
+    template.close()
 
-
-#generation de l'index FR
-index_html=open("templates/fr/index.html","w")
-print("Generation de l'index :")
-template = open("templates/template_fr.html", "r")
-for ligne in template :
-   if "</head>" in ligne : #insertion du <head>
-      index_html.write('<meta name="p:domain_verify" content="cea44afbf402c3b5741620e0e26796e7"/>')
-      index_html.write('\n')
-      index_html.write('<meta name="description" content="Prenez votre appareil photo, votre peinture et partez sur des chemins de randonnées fantastiques sélectionnés par nos soins !">')#du titre
-      index_html.write('\n')
-      index_html.write('<title>Randonnée et peinture - pause nature</title>')#du titre
-      index_html.write('\n')
-      index_html.write('<link rel="alternate" hreflang="fr" href="www.pause-nature.fr">')
-      index_html.write('<link rel="shortcut icon" type="image/ico" href="/static/img/favicon.ico">')
-      index_html.write('')
-
-   if "content_beginning" in ligne : #debut index
-      index_html.write('<div class="content pure-u-1 pure-u-md-3-4">')
-      index_html.write('<h1 class="post-title">A la Une</h1>')
-      for article in article_list_fr :
-         index_html.write('<a href=/fr/revue/'+article+' >')
-         file_article = open("reviews/fr/"+article+".txt", "r")
-         for ligne_article in file_article :
-            if "start_head" in ligne_article :
-               write = 0
-            if "end_head" in ligne_article :
-               write = 1
-            if write == 1 :
-
-                if "end_header" in ligne_article :
-                   index_html.write('<p>...</p>')
-                   index_html.write('</div>')
-                   index_html.write('</section>')
-                   break
-                else :
-                   new_line = ligne_article.replace("h1","h2")
-                   index_html.write(new_line)
-         index_html.write('</a>')
-
-   index_html.write(ligne)#ecriture des lignes du templates
-index_html.close()
-template.close()
 
 #generation de la table des article
-
 generate_reviews.gen_reviews_page(article_list_en, article_list_fr)
 
 
