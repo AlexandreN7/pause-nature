@@ -36,7 +36,7 @@ mF0aW9ucyJdfQ.nqTraD2oUSj2zB8bhoKyA7RJiz6rsjSo7ZIW2jWUbUE">
 
 <h3>Informations sur la randonnée:</h3>
 <li>Durée: 6h environ, en tout.</li>
-<li>Départ: <a href="https://goo.gl/maps/HsRGT9Txc1m2XLVb6" target=\"_blank\"><span style="font-weight: 400;">Parking Chalet-Hotel du Gioberey.</span></a></li>
+<li>Départ: <a href="https://goo.gl/maps/HsRGT9Txc1m2XLVb6" target=\"_blank\"><span style="font-weight: 400;">Parking Chalet-Hotel du Gioberney.</span></a></li>
 <li>Difficulté : Moyen/difficile, beaucoup de dénivelé en montée et en descente. La descente par derrière le refuge nécessite les mains sur plusieurs morceaux.</li>
 
 <!-- end_header -->
