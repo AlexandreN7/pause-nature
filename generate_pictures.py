@@ -52,10 +52,10 @@ def autoHTML (name, link, alt, templatePath, pageURL):
     foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/reviews\">Articles : randonnées et art</a>\n")
     foFILE_sheet.write("                        </li>\n")
     foFILE_sheet.write("                        <li class=\"nav-item\">\n")
-    foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/galerie_peinture\">Dessins et aquarelles</a>\n")
+    foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/gallery_paintings\">Dessins et aquarelles</a>\n")
     foFILE_sheet.write("                        </li>\n")
     foFILE_sheet.write("                        <li class=\"nav-item\">\n")
-    foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/galerie_pictures\">Photographie</a>\n")
+    foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/gallery_pictures\">Photographie</a>\n")
     foFILE_sheet.write("                        </li>\n")
     foFILE_sheet.write("                        <li class=\"nav-item\">\n")
     foFILE_sheet.write("                            <a class=\"pure-button\" href=\"/about\">A-propos</a>\n")
@@ -231,18 +231,18 @@ def gene_pic_gallery():
     ######################################
     ### HTML part 
     ######################################
-    foFILEout = open (templatePath+"/galerie_pictures.html", "r");
+    foFILEout = open (templatePath+"/gallery_pictures.html", "r");
     
     ##### ALL
     pagesList = []
     dictionnary = {}
-    dictionnary["filename"] = "galerie_pictures"
+    dictionnary["filename"] = "gallery_pictures"
     dictionnary["htmlfile"] = "htmlfile"
     dictionnary["foFILE"] = open (templatePath+"/htmlfile.txt", "w");
     pagesList.append(dictionnary)
     for pagesFiles in range(1, pagesHtml):
         dictionnary = {}
-        dictionnary["filename"] = "galerie_pictures-page"+str(pagesFiles)
+        dictionnary["filename"] = "gallery_pictures-page"+str(pagesFiles)
         dictionnary["htmlfile"] = "htmlfile-page"+str(pagesFiles)
         dictionnary["foFILE"] = open (templatePath+"/"+dictionnary["htmlfile"]+".txt", "w");
         pagesList.append(dictionnary)    

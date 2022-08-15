@@ -48,27 +48,27 @@ def reviews_art():
 def about():
     return render_template("about.html")
 
-@app.route("/galerie_peinture")
+@app.route("/gallery_paintings")
 def gallery():
-    return render_template("galerie_peinture.html")
+    return render_template("gallery_paintings.html")
    
-@app.route("/galerie_peinture-<name>")
+@app.route("/gallery_paintings-<name>")
 def paint_gallery_sorted(name):
-    html_name = "galerie_peinture-"+name+".html"
+    html_name = "gallery_paintings-"+name+".html"
     return render_template(html_name)
    
-@app.route("/galerie_pictures")
+@app.route("/gallery_pictures")
 def gallery_pictures():
-    return render_template("galerie_pictures.html") 
+    return render_template("gallery_pictures.html") 
 
 @app.route("/sheet-<name>")
 def pic_gallery(name):
     html_name = "sheet-"+name+".html"
     return render_template(html_name)
  
-@app.route("/galerie_pictures-<name>")
+@app.route("/gallery_pictures-<name>")
 def pic_gallery_sorted(name):
-    html_name = "galerie_pictures-"+name+".html"
+    html_name = "gallery_pictures-"+name+".html"
     return render_template(html_name)
  
 @app.route("/sitemap.xml")
