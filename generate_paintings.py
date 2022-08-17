@@ -165,6 +165,7 @@ def createPic(imgList, templatePath, pagesList, imagePerPage, imagePerCol):
         #### Generate file HTML for picture
         autoHTML(name, linkBIG, alt, templatePath, pageURL)
         
+    pagesList[borderCount]["foFILE"].write("\t\t</div>\n\n") # Close previous
     for pagesFiles in range(len(pagesList)):
         pagesList[pagesFiles]["foFILE"].write("    </div> <!-- End div classe gallery -->\n")
         
