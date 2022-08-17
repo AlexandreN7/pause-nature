@@ -139,6 +139,8 @@ def createPic(imgList, templatePath, pagesList, imagePerPage, imagePerCol):
             
             # Open new div section
             pagesList[borderCount]["foFILE"].write("\t\t<div class=\"gallery__column\">\n")
+            currentIMGCol = 0
+
         elif (currentIMGCol>=imagePerCol):
             pagesList[borderCount]["foFILE"].write("\t\t</div>\n\n") # Close previous
             # Open new
